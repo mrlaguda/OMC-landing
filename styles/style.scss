@@ -1,0 +1,311 @@
+@import 'reset';
+@import 'fontface';
+@import 'globals';
+
+body {
+    padding: var(--site-gutter);
+}
+
+.page-content {
+    border: 1px solid var(--black);
+    height: calc(100vh - 40px);
+    @include grid;
+
+    @media (max-width: $mobile) {
+        height: calc(100vh - 20px);
+    }
+
+    main {
+        height: calc(100vh - 115px);
+        grid-column: span 12;
+        @include grid;
+
+        @media (max-width: $tablet) {
+            height: calc(100vh - 142px);
+        }
+        
+        @media (max-width: $mobile) {
+            height: calc(100vh - 124px);
+        }
+
+        .section {
+            position: relative;
+            &:first-of-type {
+                @media (min-width: $tablet) {
+                    @include flex-between;
+                    flex-direction: column;
+                    border-right: 1px solid var(--black);
+                }
+            }
+        }
+
+        > section, .section {
+            grid-column: span 6;
+
+            @media (max-width: $tablet) {
+                grid-column: span 12;
+            }
+        }
+
+    }
+}
+
+.hero-image {
+    position: relative;
+    height: 0;
+    padding-bottom: calc(100vh - 115px);
+    img {
+        @include aspectImage;
+    }
+
+
+    &.mobile-only {
+        display: none;
+        padding-bottom: calc(50vh - 50px);
+        @media (max-width: $tablet) {
+            display: block;
+        }
+    }
+}
+
+.section-header {
+    height: var(--block-small);
+    border-bottom: 1px solid var(--black);
+    width: 100%;
+    @include flex-center;
+    img {
+        max-width: 343.58px;
+
+        @media (max-width: $tablet) {
+            max-width: 253px;
+        }
+    }
+}
+
+
+.mobile-bottom {
+    
+    @media (max-width: $tablet) {
+        @include flex-between;
+        flex-direction: column;
+        height: calc(50vh - 142px);
+    }
+
+    @media (max-width: $mobile) {
+        height: calc(50vh - 122px);
+    }
+}
+
+
+
+.text-body {
+    padding: 0 70px;
+
+    @media (max-width: $tablet) {
+        height: 100%;
+        @include flex-center;
+    }
+
+    @media (max-width: $mobile) {
+        padding: 0 var(--gutter);
+    }
+
+    .inner {
+        max-width: 602px;
+
+        .subtext {
+            line-height: 1.2;
+            margin-top: var(--mainpad);
+            text-align: center;
+
+            @media (max-width: $tablet) {
+                margin-top: var(--gutter);
+            }
+        }
+    }
+}
+
+// Desktop Register
+.register {
+    width: 100%;
+    height: var(--block-small);
+    overflow: hidden;
+    background: var(--light-accent);
+
+    &.active {
+        position: absolute;
+        z-index: 1;
+        height: calc(100vh - 189px);
+        top: 74px;
+        left: 0;
+        overflow-y: scroll;
+    }
+
+    .register-header {
+        height: var(--block-small);
+        border-top: 1px solid var(--black);
+        width: 100%;
+        text-align: center;
+        @include flex-center;
+        cursor: pointer;
+
+        h2 {
+            @include flex-center;
+            &::after {
+                content:'';
+                width: 14px;
+                height: 8px;
+                background-size: 100%;
+                background-image: url('../graphics/chevron.svg');
+                background-repeat: no-repeat;
+                background-position: center;
+                display: inline-block;
+                margin-left: var(--gutter);
+            }
+        }
+    }
+}
+
+
+.form-control {
+    height: var(--block-small);
+    padding: var(--gutter);
+    // @include flex-center;
+    border-top: 1px solid var(--black);
+
+    &:last-of-type {
+        border-bottom: 1px solid var(--black);
+        height: auto;
+    }
+}
+
+form {
+    label {
+        display: block;
+        @extend .p-small;
+    }
+
+    input, textarea {
+        width: 100%;
+        display: block;
+        @extend p;
+        margin-top: 5px;
+        background: var(--light-accent);
+
+        &::placeholder {
+            opacity: 0.4;
+        }
+        &:focus {
+            outline: none;
+        }
+    }
+
+    textarea {
+        resize: none;
+    }
+
+
+    select {
+        @extend p;
+        background: none;
+        width: 100%;
+        opacity: 0.4;
+
+        &:focus {
+            outline: none;
+        }
+    }
+}
+
+
+// Mobile Register
+.mobile-register {
+    width: 100%;
+    border-top: 1px solid var(--black);
+    form {
+        height: var(--block-small);
+        @include flexbox;
+        
+
+        > div {
+            padding: 10px;
+            &:first-of-type {
+                flex: 1;
+                border-right: 1px solid var(--black);
+                
+            }
+            &:last-of-type {
+                flex: 0 84px;
+            }
+        }
+
+        input[type=submit] {
+            background: none;
+          }
+    }
+}
+
+
+
+footer {
+    border-top: 1px solid var(--black);
+    overflow: hidden;
+    grid-column: span 12;
+    @include grid;
+    position: relative;
+    
+    > div {
+        height: var(--block-small);
+        grid-column: span 6;
+        @include flex-center;
+        &:first-of-type {
+            border-right: 1px solid var(--black);
+
+            @media (max-width: $tablet) {
+                grid-column: span 12;
+                grid-row: 2;
+                border-right: 0;
+                border-top: 1px solid var(--black);
+            }
+
+            img {
+                max-width: 206.47px;
+
+                @media (max-width: $tablet) {
+                    max-width: 152px;
+                }
+            }
+        }
+        &.lamont-logo {
+            
+            @media (max-width: $tablet) {
+                border-right: 1px solid var(--black);
+            }
+            > img {
+                max-width: 106px;
+            }
+        }
+    }
+
+    .colliers-logo {
+        &.desktop-only {
+            @media (min-width: $tablet) {
+                position: absolute;
+                right: 10px;
+                top: 50%;
+                transform: translateY(-50%);
+            }
+            @media (max-width: $tablet) {
+                @include flex-center;
+            }
+        }
+
+        img {
+            max-width: 69px;
+
+            @media (max-width: $tablet) {
+                max-width: 51px;
+            }
+        }
+    }
+}
