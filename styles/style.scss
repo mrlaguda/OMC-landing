@@ -25,7 +25,7 @@ body {
         }
         
         @media (max-width: $mobile) {
-            height: calc(100vh - 124px);
+            height: calc(100vh - 123px);
         }
 
         .section {
@@ -228,9 +228,17 @@ body {
         height: auto;
     }
 
+    @media (max-width: $tablet) {
+        height: auto;
+    }
+
     @media (max-width: $mobile) {
-        height: var(--block-small);
+        // height: var(--block-small);
         padding: 10px;
+    }
+
+    &.select {
+        height: auto;
     }
 }
 
@@ -240,7 +248,7 @@ form {
         @extend .p-small;
     }
 
-    input, textarea {
+    input, textarea, input[type=submit] {
         width: 100%;
         display: block;
         @extend p;
@@ -256,8 +264,8 @@ form {
     }
 
     input[type=submit] {
-        background: none;
-      }
+        margin-top: 0px;
+    }
 
     textarea {
         resize: none;
@@ -270,7 +278,7 @@ form {
         width: 100%;
         opacity: 0.4;
         margin-top: 5px;
-        
+
         &:focus {
             outline: none;
         }
