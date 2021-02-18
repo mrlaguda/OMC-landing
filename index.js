@@ -16,7 +16,7 @@ registerBtn.addEventListener('click', () => {
             textBody.classList.add('remove');
             register.classList.add('active');
 
-        }, 350);
+        }, 0);
     }
     if(register.classList.contains('active')) {
         register.classList.remove('active');
