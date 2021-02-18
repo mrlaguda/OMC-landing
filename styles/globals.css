@@ -1,0 +1,117 @@
+:root {
+  --black: #000000;
+  --white: #FFFFFF;
+  --light-accent: #FBD2BB;
+  --dark-accent: #2A3886;
+  --site-gutter: 20px;
+  --gutter: 20px;
+  --mainpad: 40px;
+  --block-small: 75px;
+  --h1: 4.375rem;
+  --h2: 1.625rem;
+  --p: 1rem;
+}
+
+@media (max-width: 1100px) {
+  :root {
+    --block-small: 50px;
+    --h1: 2.25rem;
+  }
+}
+
+@media (max-width: 750px) {
+  :root {
+    --h1: 1.5rem;
+    --h2: 1.625rem;
+    --p: 0.875rem;
+    --site-gutter: 10px;
+  }
+}
+
+*,
+*:after,
+*:before {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+html {
+  font-family: 'Sohne Kraftig';
+  background: var(--light-accent);
+  color: var(--black);
+  font-size: 16px;
+  font-weight: 500;
+  -webkit-font-smoothing: antialiased;
+  line-height: 1.2rem;
+  font-style: normal;
+  line-height: 1;
+  letter-spacing: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+h1 {
+  font-size: var(--h1);
+  line-height: 1.1;
+  font-family: 'Sohne Fett';
+  text-align: center;
+}
+
+h2 {
+  font-size: var(--h2);
+  line-height: 1.1;
+  font-family: 'Sohne Fett';
+}
+
+p {
+  font-size: var(--p);
+  line-height: 1.1;
+  font-family: 'Sohne Kraftig';
+}
+
+.p-small {
+  font-size: 0.75rem;
+  font-family: 'Sohne Kraftig';
+}
+
+.visually-hidden {
+  position: absolute !important;
+  overflow: hidden;
+  clip: rect(0 0 0 0);
+  height: 1px;
+  width: 1px;
+  margin: -1px;
+  padding: 0;
+  border: 0;
+}
+
+input {
+  font-family: 'Sohne Kraftig';
+  border: 0;
+  border-radius: 0;
+  background: none;
+}
+
+.mobile-only {
+  display: none;
+}
+
+@media (max-width: 1100px) {
+  .mobile-only {
+    display: block;
+  }
+}
+
+@media (max-width: 1100px) {
+  .desktop-only {
+    display: none !important;
+  }
+}
+/*# sourceMappingURL=globals.css.map */

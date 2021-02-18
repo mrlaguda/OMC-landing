@@ -62,7 +62,7 @@
                 <header class="section-header">
                     <img src="assets/graphics/OMC-Primary-Wordmark.svg" alt="OMC Primary Wordmark" />
                 </header>
-                <div class="hero-image mobile-only">
+                <div class="hero-image mobile-only mobile-hero">
                     <img src="assets/images/hero.jpg" alt="Hero image" />
                 </div>
                 <div class="mobile-bottom">
@@ -82,7 +82,7 @@
                     </div>
                 </div>
 
-                <div class="mobile-register mobile-only">
+                <!-- <div class="mobile-register mobile-only">
                         <form action="/enquiry" method="POST">
                             <div>
                                 <label for="preRegister">Pre-Register:</label>
@@ -92,10 +92,10 @@
                                 <input type="submit" name="submit" value="Submit" />
                             </div>
                         </form>
-                    </div>
+                    </div> -->
                 </div>
 
-                <div class="register desktop-only">
+                <div class="register">
                     <div class="register-header">
                         <h2>
                             Register now to be the first to know
@@ -129,6 +129,48 @@
                                 <input aria-label="City" name="city" type="text" placeholder="Auckland" />
                             </div>
                             <div class="form-control">
+                                <label for="bedrooms">Number of bedrooms</label>
+                                <select aria-label="bedrooms" name="bedrooms">
+                                    <option aria-label="One Bedroom" value="">One Bedroom</option>
+                                    <option aria-label="Two Bedrooms" value="">Two Bedrooms</option>
+                                </select>
+                            </div>
+                            <div class="form-control">
+                                <label for="options">Price range of interest</label>
+                                <select aria-label="prices" name="prices">
+                                    <option aria-label="$600,00 - $750,000" value="">$600,00 - $750,000</option>
+                                    <option aria-label="$600,00 - $750,000" value="">$600,00 - $750,000</option>
+                                    <option aria-label="$750,000 - $900,000" value="">$750,000 - $900,000</option>
+                                    <option aria-label="$900,000 - $1,150,000" value="">$900,000 - $1,150,000</option>
+                                    <option aria-label="$1,150,000+" value="">$1,150,000+</option>
+                                </select>
+                            </div>
+                            <div class="form-control">
+                                <label for="options">How did you hear about us?</label>
+                                <select aria-label="options" name="options">
+                                    <option aria-label="Colliers" value="">Colliers</option>
+                                    <option aria-label="Facebook" value="">Facebook</option>
+                                    <option aria-label="Google" value="">Google</option>
+                                    <option aria-label="Instagram" value="">Instagram</option>
+                                    <option aria-label="NZ Herald" value="">NZ Herald</option>
+                                    <option aria-label="Onehunga Community News" value="">Onehunga Community News</option>
+                                    <option aria-label="Oneroof.co.nz" value="">Oneroof.co.nz</option>
+                                    <option aria-label="Other" value="">Other</option>
+                                    <option aria-label="Realestate.co.nz" value="">Realestate.co.nz</option>
+                                    <option aria-label="Referral" value="">Referral</option>
+                                    <option aria-label="Signage" value="">Signage</option>
+                                    <option aria-label="Trademe.co.nz" value="">Trademe.co.nz</option>
+                                </select>
+                            </div>
+                            <div class="form-control">
+                                <label for="intention">Purchase intention</label>
+                                <select aria-label="intention" name="intention">
+                                    <option aria-label="First Home Buyer" value="">First Home Buyer</option>
+                                    <option aria-label="Owner Occupier" value="">Owner Occupier</option>
+                                    <option aria-label="Investor" value="">Investor</option>
+                                </select>
+                            </div>
+                            <!-- <div class="form-control">
                                 <label for="options">Interested In</label>
                                 <select aria-label="options" name="options">
                                     <option aria-label="Select an option" class="placeholder" selected="selected">Select an option</option>
@@ -138,6 +180,9 @@
                             <div class="form-control">
                                 <label for="phone">How did you hear about us?</label>
                                 <textarea aria-label="How did you hear about us?" name="phone" placeholder="Maecenas rutrum massa vel velit vulputate, eu eleifend sapien vehicula. Lorem ipsum dolor sit amet, consectetur adipiscing elit." ></textarea>
+                            </div> -->
+                            <div class="form-control">
+                                <input type="submit" name="submit" value="Submit" />
                             </div>
                         </form>
                     </div>

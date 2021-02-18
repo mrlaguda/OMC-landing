@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32186",
 "files": {
+	"/.gitattributes": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitattributes",
+		"oF": 0
+		},
 	"/assets/css/style.css": {
 		"aP": 1,
 		"bl": 0,
@@ -203,6 +211,24 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"/styles/fontface.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles/fontface-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/styles/fontface.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/styles/fontface.css.map",
+		"oF": 0
+		},
 	"/styles/fontface.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -215,6 +241,24 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 0
+		},
+	"/styles/globals.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles/globals-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/styles/globals.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/styles/globals.css.map",
+		"oF": 0
 		},
 	"/styles/globals.scss": {
 		"aP": 0,
@@ -229,6 +273,24 @@
 		"oS": 0,
 		"sct": 0
 		},
+	"/styles/reset.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles/reset-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/styles/reset.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/styles/reset.css.map",
+		"oF": 0
+		},
 	"/styles/reset.scss": {
 		"aP": 0,
 		"bl": 0,
@@ -241,6 +303,34 @@
 		"oF": 0,
 		"oS": 0,
 		"sct": 0
+		},
+	"/styles/style-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles/style-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/styles/style.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/styles/style-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"/styles/style.css.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/styles/style.css.map",
+		"oF": 0
 		},
 	"/styles/style.scss": {
 		"aP": 0,

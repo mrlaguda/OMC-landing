@@ -30,7 +30,15 @@ body {
 
         .section {
             position: relative;
+
+            @media (max-width: $tablet) {
+                display: flex;
+                flex-direction: column;
+                justify-content: space-between;
+            }
+
             &:first-of-type {
+                max-height: -webkit-fill-available;
                 @media (min-width: $tablet) {
                     @include flex-between;
                     flex-direction: column;
@@ -65,6 +73,21 @@ body {
         @media (max-width: $tablet) {
             display: block;
         }
+
+        
+    }
+}
+
+.mobile-hero {
+    opacity: 1;
+    transition: opacity 0.35s ease-in;
+    @media (max-width: $tablet) {
+        &.fade {
+            opacity: 0;
+        }
+        &.hide {
+            display: none;
+        }
     }
 }
 
@@ -88,11 +111,17 @@ body {
     @media (max-width: $tablet) {
         @include flex-between;
         flex-direction: column;
-        height: calc(50vh - 142px);
+        height: calc(50vh - 192px);
     }
 
     @media (max-width: $mobile) {
-        height: calc(50vh - 122px);
+        height: calc(50vh - 173px);
+    }
+
+    &.hide {
+        @media (max-width: $tablet) {
+            display: none;
+        }
     }
 }
 
@@ -100,7 +129,8 @@ body {
 
 .text-body {
     padding: 0 70px;
-
+    opacity: 1;
+    transition: opacity 0.35s ease-in;
     @media (max-width: $tablet) {
         height: 100%;
         @include flex-center;
@@ -108,6 +138,13 @@ body {
 
     @media (max-width: $mobile) {
         padding: 0 var(--gutter);
+    }
+
+    &.fade {
+        opacity: 0;
+    }
+    &.remove {
+        display: none;
     }
 
     .inner {
@@ -131,14 +168,25 @@ body {
     height: var(--block-small);
     overflow: hidden;
     background: var(--light-accent);
+    transition: height 0.35s ease-in;
+    position: relative;
+    top: auto;
+    
+    // @media (max-width: $mobile) {
+        padding-bottom: 50px;
+    // }
 
     &.active {
-        position: absolute;
         z-index: 1;
-        height: calc(100vh - 189px);
-        top: 74px;
-        left: 0;
+        height: calc(100vh - 190px);
         overflow-y: scroll;
+
+        @media (max-width: $tablet) {
+            height: calc(100vh - 192px);
+        }
+        @media (max-width: $mobile) {
+            height: calc(100vh - 173px);
+        }
     }
 
     .register-header {
@@ -148,27 +196,29 @@ body {
         text-align: center;
         @include flex-center;
         cursor: pointer;
+        background: var(--black);
+        color: var(--white);
 
-        h2 {
-            @include flex-center;
-            &::after {
-                content:'';
-                width: 14px;
-                height: 8px;
-                background-size: 100%;
-                background-image: url('../graphics/chevron.svg');
-                background-repeat: no-repeat;
-                background-position: center;
-                display: inline-block;
-                margin-left: var(--gutter);
-            }
-        }
+        // h2 {
+            // @include flex-center;
+            // &::after {
+            //     content:'';
+            //     width: 14px;
+            //     height: 8px;
+            //     background-size: 100%;
+            //     background-image: url('../graphics/chevron.svg');
+            //     background-repeat: no-repeat;
+            //     background-position: center;
+            //     display: inline-block;
+            //     margin-left: var(--gutter);
+            // }
+        // }
     }
 }
 
 
 .form-control {
-    height: var(--block-small);
+    height: 75px;
     padding: var(--gutter);
     // @include flex-center;
     border-top: 1px solid var(--black);
@@ -176,6 +226,11 @@ body {
     &:last-of-type {
         border-bottom: 1px solid var(--black);
         height: auto;
+    }
+
+    @media (max-width: $mobile) {
+        height: var(--block-small);
+        padding: 10px;
     }
 }
 
@@ -200,6 +255,10 @@ form {
         }
     }
 
+    input[type=submit] {
+        background: none;
+      }
+
     textarea {
         resize: none;
     }
@@ -210,7 +269,8 @@ form {
         background: none;
         width: 100%;
         opacity: 0.4;
-
+        margin-top: 5px;
+        
         &:focus {
             outline: none;
         }
@@ -239,9 +299,7 @@ form {
             }
         }
 
-        input[type=submit] {
-            background: none;
-          }
+        
     }
 }
 
@@ -288,7 +346,6 @@ footer {
     }
 
     .colliers-logo {
-        &.desktop-only {
             @media (min-width: $tablet) {
                 position: absolute;
                 right: 10px;
@@ -298,7 +355,6 @@ footer {
             @media (max-width: $tablet) {
                 @include flex-center;
             }
-        }
 
         img {
             max-width: 69px;
