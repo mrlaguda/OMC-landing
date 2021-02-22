@@ -96,11 +96,11 @@ body {
     border-bottom: 1px solid var(--black);
     width: 100%;
     @include flex-center;
-    img {
-        max-width: 343.58px;
+    svg {
+        width: 343.58px;
 
         @media (max-width: $tablet) {
-            max-width: 253px;
+            width: 253px;
         }
     }
 }
@@ -279,7 +279,7 @@ form {
         width: 100%;
         opacity: 0.4;
         margin-top: 5px;
-
+        color: #977E70;
         &:focus {
             outline: none;
         }
@@ -335,11 +335,11 @@ footer {
                 border-top: 1px solid var(--black);
             }
 
-            img {
-                max-width: 206.47px;
+            svg {
+                width: 206.47px;
 
                 @media (max-width: $tablet) {
-                    max-width: 152px;
+                    width: 152px;
                 }
             }
         }
@@ -348,8 +348,8 @@ footer {
             @media (max-width: $tablet) {
                 border-right: 1px solid var(--black);
             }
-            > img {
-                max-width: 106px;
+            > svg {
+                width: 106px;
             }
         }
     }
@@ -365,11 +365,11 @@ footer {
                 @include flex-center;
             }
 
-        img {
-            max-width: 69px;
+        svg {
+            width: 69px;
 
             @media (max-width: $tablet) {
-                max-width: 51px;
+                width: 51px;
             }
         }
     }

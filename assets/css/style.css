@@ -306,12 +306,12 @@ body {
   align-items: center;
   justify-content: center;
 }
-.section-header img {
-  max-width: 343.58px;
+.section-header svg {
+  width: 343.58px;
 }
 @media (max-width: 1100px) {
-  .section-header img {
-    max-width: 253px;
+  .section-header svg {
+    width: 253px;
   }
 }
 
@@ -468,6 +468,7 @@ form select {
   width: 100%;
   opacity: 0.4;
   margin-top: 5px;
+  color: #977E70;
 }
 form select:focus {
   outline: none;
@@ -526,12 +527,12 @@ footer > div:first-of-type {
     border-top: 1px solid var(--black);
   }
 }
-footer > div:first-of-type img {
-  max-width: 206.47px;
+footer > div:first-of-type svg {
+  width: 206.47px;
 }
 @media (max-width: 1100px) {
-  footer > div:first-of-type img {
-    max-width: 152px;
+  footer > div:first-of-type svg {
+    width: 152px;
   }
 }
 @media (max-width: 1100px) {
@@ -539,8 +540,8 @@ footer > div:first-of-type img {
     border-right: 1px solid var(--black);
   }
 }
-footer > div.lamont-logo > img {
-  max-width: 106px;
+footer > div.lamont-logo > svg {
+  width: 106px;
 }
 @media (min-width: 1100px) {
   footer .colliers-logo {
@@ -559,11 +560,11 @@ footer > div.lamont-logo > img {
     justify-content: center;
   }
 }
-footer .colliers-logo img {
-  max-width: 69px;
+footer .colliers-logo svg {
+  width: 69px;
 }
 @media (max-width: 1100px) {
-  footer .colliers-logo img {
-    max-width: 51px;
+  footer .colliers-logo svg {
+    width: 51px;
   }
 }
