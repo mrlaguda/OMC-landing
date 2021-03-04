@@ -1,0 +1,5830 @@
+[{
+        "value": "ABBOTSFORD"
+    },
+    {
+        "value": "ACACIA BAY"
+    },
+    {
+        "value": "ADDINGTON"
+    },
+    {
+        "value": "AHAURA"
+    },
+    {
+        "value": "AHIPARA"
+    },
+    {
+        "value": "AHURIRI"
+    },
+    {
+        "value": "AHUROA"
+    },
+    {
+        "value": "AIDANFIELD"
+    },
+    {
+        "value": "AITUTAKI ISLAND"
+    },
+    {
+        "value": "AKA AKA"
+    },
+    {
+        "value": "AKAROA"
+    },
+    {
+        "value": "AKATARAWA"
+    },
+    {
+        "value": "AKINA"
+    },
+    {
+        "value": "AKITIO"
+    },
+    {
+        "value": "ALBANY"
+    },
+    {
+        "value": "ALBANY HEIGHTS"
+    },
+    {
+        "value": "ALBERT TOWN"
+    },
+    {
+        "value": "ALBURY"
+    },
+    {
+        "value": "ALEXANDRA"
+    },
+    {
+        "value": "ALFRISTON"
+    },
+    {
+        "value": "ALGIES BAY"
+    },
+    {
+        "value": "ALICETOWN"
+    },
+    {
+        "value": "ALLANTON"
+    },
+    {
+        "value": "ALMA"
+    },
+    {
+        "value": "ALTON"
+    },
+    {
+        "value": "AMBERLEY"
+    },
+    {
+        "value": "AMBERLEY BEACH"
+    },
+    {
+        "value": "ANAKIWA"
+    },
+    {
+        "value": "ANAWHATA"
+    },
+    {
+        "value": "ANDERSONS BAY"
+    },
+    {
+        "value": "ANISEED VALLEY"
+    },
+    {
+        "value": "ANNAT"
+    },
+    {
+        "value": "ANNESBROOK"
+    },
+    {
+        "value": "AOKAUTERE"
+    },
+    {
+        "value": "AONGATETE"
+    },
+    {
+        "value": "AOTEA"
+    },
+    {
+        "value": "AOTEA HARBOUR"
+    },
+    {
+        "value": "APATA"
+    },
+    {
+        "value": "APIA"
+    },
+    {
+        "value": "APITI"
+    },
+    {
+        "value": "APPLEBY"
+    },
+    {
+        "value": "ARAMOANA"
+    },
+    {
+        "value": "ARAMOHO"
+    },
+    {
+        "value": "ARANGA"
+    },
+    {
+        "value": "ARANUI"
+    },
+    {
+        "value": "ARAPOHUE"
+    },
+    {
+        "value": "ARAPUNI"
+    },
+    {
+        "value": "ARARIMU"
+    },
+    {
+        "value": "ARATAKI"
+    },
+    {
+        "value": "ARCH HILL"
+    },
+    {
+        "value": "ARDMORE"
+    },
+    {
+        "value": "ARKLES BAY"
+    },
+    {
+        "value": "ARMY BAY"
+    },
+    {
+        "value": "ARO VALLEY"
+    },
+    {
+        "value": "ARROW JUNCTION"
+    },
+    {
+        "value": "ARROWTOWN"
+    },
+    {
+        "value": "ARTHURS PASS"
+    },
+    {
+        "value": "ARTHURS POINT"
+    },
+    {
+        "value": "ARUNDEL"
+    },
+    {
+        "value": "ASCOT"
+    },
+    {
+        "value": "ASCOT PARK"
+    },
+    {
+        "value": "ASHBURTON"
+    },
+    {
+        "value": "ASHHURST"
+    },
+    {
+        "value": "ASHLEY"
+    },
+    {
+        "value": "ASHLEY GORGE"
+    },
+    {
+        "value": "ATAWHAI"
+    },
+    {
+        "value": "ATHENREE"
+    },
+    {
+        "value": "ATHOL"
+    },
+    {
+        "value": "ATIAMURI"
+    },
+    {
+        "value": "AUSTRALIA"
+    },
+    {
+        "value": "AVALON"
+    },
+    {
+        "value": "AVENAL"
+    },
+    {
+        "value": "AVENUES"
+    },
+    {
+        "value": "AVONDALE"
+    },
+    {
+        "value": "AVONHEAD"
+    },
+    {
+        "value": "AVONSIDE"
+    },
+    {
+        "value": "AWAAWAROA BAY"
+    },
+    {
+        "value": "AWAHOU"
+    },
+    {
+        "value": "AWAHURI"
+    },
+    {
+        "value": "AWAKAPONGA"
+    },
+    {
+        "value": "AWAKERI"
+    },
+    {
+        "value": "AWAKINO"
+    },
+    {
+        "value": "AWAMOKO"
+    },
+    {
+        "value": "AWANUI"
+    },
+    {
+        "value": "AWAPUNI"
+    },
+    {
+        "value": "AWATERE VALLEY"
+    },
+    {
+        "value": "AWATOTO"
+    },
+    {
+        "value": "AWATUNA"
+    },
+    {
+        "value": "AWHITU"
+    },
+    {
+        "value": "BADER"
+    },
+    {
+        "value": "BAINESSE"
+    },
+    {
+        "value": "BALACLAVA"
+    },
+    {
+        "value": "BALCAIRN"
+    },
+    {
+        "value": "BALCLUTHA"
+    },
+    {
+        "value": "BALFOUR"
+    },
+    {
+        "value": "BALMORAL"
+    },
+    {
+        "value": "BALMORAL HILL"
+    },
+    {
+        "value": "BANKS PENINSULA"
+    },
+    {
+        "value": "BARRINGTON"
+    },
+    {
+        "value": "BARRYTOWN"
+    },
+    {
+        "value": "BASTIA HILL"
+    },
+    {
+        "value": "BAY OF PLENTY"
+    },
+    {
+        "value": "BAY VIEW"
+    },
+    {
+        "value": "BAYFAIR"
+    },
+    {
+        "value": "BAYLYS BEACH"
+    },
+    {
+        "value": "BAYSWATER"
+    },
+    {
+        "value": "BAYVIEW"
+    },
+    {
+        "value": "BEACH HAVEN"
+    },
+    {
+        "value": "BEACHLANDS"
+    },
+    {
+        "value": "BECKENHAM"
+    },
+    {
+        "value": "BEERESCOURT"
+    },
+    {
+        "value": "BELFAST"
+    },
+    {
+        "value": "BELL BLOCK"
+    },
+    {
+        "value": "BELLEKNOWES"
+    },
+    {
+        "value": "BELLEVUE"
+    },
+    {
+        "value": "BELMONT"
+    },
+    {
+        "value": "BENNETTS"
+    },
+    {
+        "value": "BERHAMPORE"
+    },
+    {
+        "value": "BERWICK"
+    },
+    {
+        "value": "BEST ISLAND"
+    },
+    {
+        "value": "BETHELLS BEACH"
+    },
+    {
+        "value": "BETHLEHEM"
+    },
+    {
+        "value": "BEXLEY"
+    },
+    {
+        "value": "BIG MANLY"
+    },
+    {
+        "value": "BIRCHVILLE"
+    },
+    {
+        "value": "BIRDLINGS FLAT"
+    },
+    {
+        "value": "BIRKDALE"
+    },
+    {
+        "value": "BIRKENHEAD"
+    },
+    {
+        "value": "BISHOPDALE"
+    },
+    {
+        "value": "BLACKBALL"
+    },
+    {
+        "value": "BLACKHEAD"
+    },
+    {
+        "value": "BLACKPOOL"
+    },
+    {
+        "value": "BLAGDON"
+    },
+    {
+        "value": "BLAKETOWN"
+    },
+    {
+        "value": "BLENHEIM"
+    },
+    {
+        "value": "BLOCKHOUSE BAY"
+    },
+    {
+        "value": "BLUE MOUNTAINS"
+    },
+    {
+        "value": "BLUFF"
+    },
+    {
+        "value": "BLUFF HILL"
+    },
+    {
+        "value": "BOMBAY"
+    },
+    {
+        "value": "BOTANY DOWNS"
+    },
+    {
+        "value": "BOULCOTT"
+    },
+    {
+        "value": "BOYDTOWN"
+    },
+    {
+        "value": "BRADFORD"
+    },
+    {
+        "value": "BREAKER BAY"
+    },
+    {
+        "value": "BREAM BAY"
+    },
+    {
+        "value": "BRIDGE PA"
+    },
+    {
+        "value": "BRIGHTON"
+    },
+    {
+        "value": "BRIGHTWATER"
+    },
+    {
+        "value": "BRISBANE"
+    },
+    {
+        "value": "BRITANNIA HEIGHTS"
+    },
+    {
+        "value": "BRIXTON"
+    },
+    {
+        "value": "BROAD BAY"
+    },
+    {
+        "value": "BROADFIELD"
+    },
+    {
+        "value": "BROADLANDS FOREST"
+    },
+    {
+        "value": "BROADMEADOWS"
+    },
+    {
+        "value": "BROADWOOD"
+    },
+    {
+        "value": "BROCKVILLE"
+    },
+    {
+        "value": "BROMLEY"
+    },
+    {
+        "value": "BROOKBY"
+    },
+    {
+        "value": "BROOKFIELD"
+    },
+    {
+        "value": "BROOKHAVEN"
+    },
+    {
+        "value": "BROOKLANDS"
+    },
+    {
+        "value": "BROOKLYN"
+    },
+    {
+        "value": "BROOMFIELD"
+    },
+    {
+        "value": "BROWN OWL"
+    },
+    {
+        "value": "BROWNS"
+    },
+    {
+        "value": "BROWNS BAY"
+    },
+    {
+        "value": "BRUCE BAY"
+    },
+    {
+        "value": "BRUNSWICK"
+    },
+    {
+        "value": "BRYNDWR"
+    },
+    {
+        "value": "BUCKLAND"
+    },
+    {
+        "value": "BUCKLANDS BEACH"
+    },
+    {
+        "value": "BULLER"
+    },
+    {
+        "value": "BULLS"
+    },
+    {
+        "value": "BUNNYTHORPE"
+    },
+    {
+        "value": "BURETA"
+    },
+    {
+        "value": "BURKES PASS"
+    },
+    {
+        "value": "BURNHAM"
+    },
+    {
+        "value": "BURNSIDE"
+    },
+    {
+        "value": "BURNT HILL"
+    },
+    {
+        "value": "BURSWOOD"
+    },
+    {
+        "value": "BURWOOD"
+    },
+    {
+        "value": "CABLE BAY"
+    },
+    {
+        "value": "CALTON HILL"
+    },
+    {
+        "value": "CAMBERLEY"
+    },
+    {
+        "value": "CAMBORNE"
+    },
+    {
+        "value": "CAMBRIDGE"
+    },
+    {
+        "value": "CAMBRIDGE HEIGHTS"
+    },
+    {
+        "value": "CAMERONS"
+    },
+    {
+        "value": "CAMPBELLS BAY"
+    },
+    {
+        "value": "CANNONS CREEK"
+    },
+    {
+        "value": "CANTERBURY"
+    },
+    {
+        "value": "CAPE PALLISER"
+    },
+    {
+        "value": "CAPE REINGA"
+    },
+    {
+        "value": "CARDRONA"
+    },
+    {
+        "value": "CARLETON"
+    },
+    {
+        "value": "CARTERS BEACH"
+    },
+    {
+        "value": "CARTERTON"
+    },
+    {
+        "value": "CASEBROOK"
+    },
+    {
+        "value": "CASHMERE"
+    },
+    {
+        "value": "CASS BAY"
+    },
+    {
+        "value": "CASTLE HILL VILLAGE"
+    },
+    {
+        "value": "CASTLECLIFF"
+    },
+    {
+        "value": "CASTLEPOINT"
+    },
+    {
+        "value": "CASTOR BAY"
+    },
+    {
+        "value": "CATLINS"
+    },
+    {
+        "value": "CAVALLI ISLANDS"
+    },
+    {
+        "value": "CAVE"
+    },
+    {
+        "value": "CAVERSHAM"
+    },
+    {
+        "value": "CENTRAL HAWKE'S BAY"
+    },
+    {
+        "value": "CENTRAL HAWKE'S BAY COUNTRY"
+    },
+    {
+        "value": "CENTRAL OTAGO"
+    },
+    {
+        "value": "CENTRAL WHANGAREI"
+    },
+    {
+        "value": "CENTRE BUSH"
+    },
+    {
+        "value": "CHANEYS"
+    },
+    {
+        "value": "CHAPEL DOWNS"
+    },
+    {
+        "value": "CHARING CROSS"
+    },
+    {
+        "value": "CHARLESTON"
+    },
+    {
+        "value": "CHARTERIS BAY"
+    },
+    {
+        "value": "CHARTWELL"
+    },
+    {
+        "value": "CHATSWOOD"
+    },
+    {
+        "value": "CHEDWORTH PARK"
+    },
+    {
+        "value": "CHELTENHAM"
+    },
+    {
+        "value": "CHERRYWOOD"
+    },
+    {
+        "value": "CHERTSEY"
+    },
+    {
+        "value": "CHESTER PARK"
+    },
+    {
+        "value": "CHEVIOT"
+    },
+    {
+        "value": "CHRISTCHURCH CITY"
+    },
+    {
+        "value": "CHURCH BAY"
+    },
+    {
+        "value": "CHURTON PARK"
+    },
+    {
+        "value": "CITY CENTRE"
+    },
+    {
+        "value": "CLARKS BEACH"
+    },
+    {
+        "value": "CLARKVILLE"
+    },
+    {
+        "value": "CLAUDELANDS"
+    },
+    {
+        "value": "CLENDON PARK"
+    },
+    {
+        "value": "CLEVEDON"
+    },
+    {
+        "value": "CLIFTON"
+    },
+    {
+        "value": "CLINTON"
+    },
+    {
+        "value": "CLIVE"
+    },
+    {
+        "value": "CLOSEBURN"
+    },
+    {
+        "value": "CLOUSTON PARK"
+    },
+    {
+        "value": "CLOVER PARK"
+    },
+    {
+        "value": "CLOVERLEA"
+    },
+    {
+        "value": "CLUTHA"
+    },
+    {
+        "value": "CLYDE"
+    },
+    {
+        "value": "CLYDE HILL"
+    },
+    {
+        "value": "COALGATE"
+    },
+    {
+        "value": "COASTLANDS"
+    },
+    {
+        "value": "COATESVILLE"
+    },
+    {
+        "value": "COBDEN"
+    },
+    {
+        "value": "COCKLE BAY"
+    },
+    {
+        "value": "COLAC BAY"
+    },
+    {
+        "value": "COLDSTREAM"
+    },
+    {
+        "value": "COLLEGE ESTATE"
+    },
+    {
+        "value": "COLLINGWOOD"
+    },
+    {
+        "value": "COLYTON"
+    },
+    {
+        "value": "COMPANY BAY"
+    },
+    {
+        "value": "CONCORD"
+    },
+    {
+        "value": "CONIFER GROVE"
+    },
+    {
+        "value": "CONNELLS BAY"
+    },
+    {
+        "value": "COOK ISLANDS"
+    },
+    {
+        "value": "COOKS BEACH"
+    },
+    {
+        "value": "COOPERS BEACH"
+    },
+    {
+        "value": "COOPERS CREEK"
+    },
+    {
+        "value": "CORNWALLIS"
+    },
+    {
+        "value": "COROGLEN"
+    },
+    {
+        "value": "COROMANDEL"
+    },
+    {
+        "value": "CORSTORPHINE"
+    },
+    {
+        "value": "COUTTS ISLAND"
+    },
+    {
+        "value": "COWES BAY"
+    },
+    {
+        "value": "COXS BAY"
+    },
+    {
+        "value": "CRACROFT"
+    },
+    {
+        "value": "CRAWFORD"
+    },
+    {
+        "value": "CROFTON DOWNS"
+    },
+    {
+        "value": "CROMWELL"
+    },
+    {
+        "value": "CROWN HILL"
+    },
+    {
+        "value": "CROWN TERRACE"
+    },
+    {
+        "value": "CROWNTHORPE"
+    },
+    {
+        "value": "CULVERDEN"
+    },
+    {
+        "value": "CUMBRIA DOWNS"
+    },
+    {
+        "value": "CUST"
+    },
+    {
+        "value": "DAIRY FLAT"
+    },
+    {
+        "value": "DALEFIELD"
+    },
+    {
+        "value": "DALLINGTON"
+    },
+    {
+        "value": "DALMORE"
+    },
+    {
+        "value": "DANNEMORA"
+    },
+    {
+        "value": "DANNEVIRKE"
+    },
+    {
+        "value": "DARFIELD"
+    },
+    {
+        "value": "DARGAVILLE"
+    },
+    {
+        "value": "DASHWOOD"
+    },
+    {
+        "value": "DAYS BAY"
+    },
+    {
+        "value": "DEANWELL"
+    },
+    {
+        "value": "DEVONPORT"
+    },
+    {
+        "value": "DIAMOND HARBOUR"
+    },
+    {
+        "value": "DIGGERS VALLEY"
+    },
+    {
+        "value": "DINSDALE"
+    },
+    {
+        "value": "DIPTON"
+    },
+    {
+        "value": "DIPTON WEST"
+    },
+    {
+        "value": "DOBSON"
+    },
+    {
+        "value": "DOCTORS POINT"
+    },
+    {
+        "value": "DOMETT"
+    },
+    {
+        "value": "DOVEDALE"
+    },
+    {
+        "value": "DOYLESTON"
+    },
+    {
+        "value": "DRUMMOND"
+    },
+    {
+        "value": "DRURY"
+    },
+    {
+        "value": "DUNBACK"
+    },
+    {
+        "value": "DUNEDIN"
+    },
+    {
+        "value": "DUNOLLIE"
+    },
+    {
+        "value": "DUNSANDEL"
+    },
+    {
+        "value": "DUNTROON"
+    },
+    {
+        "value": "DURIE HILL"
+    },
+    {
+        "value": "DUVAUCHELLE"
+    },
+    {
+        "value": "EAST TAIERI"
+    },
+    {
+        "value": "EAST TAMAKI"
+    },
+    {
+        "value": "EAST TAMAKI HEIGHTS"
+    },
+    {
+        "value": "EASTBOURNE"
+    },
+    {
+        "value": "EASTERN BEACH"
+    },
+    {
+        "value": "EBDENTOWN"
+    },
+    {
+        "value": "EDEN TERRACE"
+    },
+    {
+        "value": "EDENDALE"
+    },
+    {
+        "value": "EDGECUMBE"
+    },
+    {
+        "value": "EDGEWARE"
+    },
+    {
+        "value": "EGMONT VILLAGE"
+    },
+    {
+        "value": "EKETAHUNA"
+    },
+    {
+        "value": "ELDERSLEA"
+    },
+    {
+        "value": "ELGIN"
+    },
+    {
+        "value": "ELLERSLIE"
+    },
+    {
+        "value": "ELSDON"
+    },
+    {
+        "value": "ELSTHORPE"
+    },
+    {
+        "value": "ELTHAM"
+    },
+    {
+        "value": "ENCLOSURE BAY"
+    },
+    {
+        "value": "ENDERLEY"
+    },
+    {
+        "value": "ENFIELD"
+    },
+    {
+        "value": "ENNER GLYNN"
+    },
+    {
+        "value": "EPSOM"
+    },
+    {
+        "value": "EPUNI"
+    },
+    {
+        "value": "ESKDALE"
+    },
+    {
+        "value": "ETTRICK"
+    },
+    {
+        "value": "EUREKA"
+    },
+    {
+        "value": "EVANS BAY"
+    },
+    {
+        "value": "EYRETON"
+    },
+    {
+        "value": "EYREWELL"
+    },
+    {
+        "value": "FAIRBURN"
+    },
+    {
+        "value": "FAIRDOWN"
+    },
+    {
+        "value": "FAIRFIELD"
+    },
+    {
+        "value": "FAIRHALL"
+    },
+    {
+        "value": "FAIRLIE"
+    },
+    {
+        "value": "FAIRTON"
+    },
+    {
+        "value": "FAIRVIEW DOWNS"
+    },
+    {
+        "value": "FAIRVIEW HEIGHTS"
+    },
+    {
+        "value": "FAIRY SPRINGS"
+    },
+    {
+        "value": "FAR NORTH"
+    },
+    {
+        "value": "FARM COVE"
+    },
+    {
+        "value": "FAVONA"
+    },
+    {
+        "value": "FEATHERSTON"
+    },
+    {
+        "value": "FEILDING"
+    },
+    {
+        "value": "FENDALTON"
+    },
+    {
+        "value": "FENTON PARK"
+    },
+    {
+        "value": "FERNDALE"
+    },
+    {
+        "value": "FERNHILL"
+    },
+    {
+        "value": "FERNSIDE"
+    },
+    {
+        "value": "FERRYMEAD"
+    },
+    {
+        "value": "FIJI"
+    },
+    {
+        "value": "FITZHERBERT"
+    },
+    {
+        "value": "FITZROY"
+    },
+    {
+        "value": "FLAGSTAFF"
+    },
+    {
+        "value": "FLAT BUSH"
+    },
+    {
+        "value": "FLAT POINT"
+    },
+    {
+        "value": "FLAXMERE"
+    },
+    {
+        "value": "FLAXMILL BAY"
+    },
+    {
+        "value": "FLAXTON"
+    },
+    {
+        "value": "FORDELL"
+    },
+    {
+        "value": "FORDLANDS"
+    },
+    {
+        "value": "FOREST LAKE"
+    },
+    {
+        "value": "FOREST PARK"
+    },
+    {
+        "value": "FORREST HILL"
+    },
+    {
+        "value": "FOX GLACIER"
+    },
+    {
+        "value": "FOXTON"
+    },
+    {
+        "value": "FOXTON BEACH"
+    },
+    {
+        "value": "FRANKLEIGH PARK"
+    },
+    {
+        "value": "FRANKLIN"
+    },
+    {
+        "value": "FRANKTON"
+    },
+    {
+        "value": "FRANZ JOSEF"
+    },
+    {
+        "value": "FRASERTOWN"
+    },
+    {
+        "value": "FREEMANS BAY"
+    },
+    {
+        "value": "FRENCH BAY"
+    },
+    {
+        "value": "FRIMLEY"
+    },
+    {
+        "value": "GALATEA"
+    },
+    {
+        "value": "GAMMANS CREEK"
+    },
+    {
+        "value": "GARSTON"
+    },
+    {
+        "value": "GATE PA"
+    },
+    {
+        "value": "GEORGETOWN"
+    },
+    {
+        "value": "GERALDINE"
+    },
+    {
+        "value": "GIBBSTON"
+    },
+    {
+        "value": "GISBORNE"
+    },
+    {
+        "value": "GLADSTONE"
+    },
+    {
+        "value": "GLEN AVON"
+    },
+    {
+        "value": "GLEN EDEN"
+    },
+    {
+        "value": "GLEN INNES"
+    },
+    {
+        "value": "GLEN MURRAY"
+    },
+    {
+        "value": "GLENAVY"
+    },
+    {
+        "value": "GLENBERVIE"
+    },
+    {
+        "value": "GLENBROOK"
+    },
+    {
+        "value": "GLENDENE"
+    },
+    {
+        "value": "GLENDOWIE"
+    },
+    {
+        "value": "GLENFIELD"
+    },
+    {
+        "value": "GLENGARRY"
+    },
+    {
+        "value": "GLENHOLME"
+    },
+    {
+        "value": "GLENLEITH"
+    },
+    {
+        "value": "GLENORCHY"
+    },
+    {
+        "value": "GLENROSS"
+    },
+    {
+        "value": "GLENSIDE"
+    },
+    {
+        "value": "GLENTUI"
+    },
+    {
+        "value": "GLENTUNNEL"
+    },
+    {
+        "value": "GLENVIEW"
+    },
+    {
+        "value": "GLORIT"
+    },
+    {
+        "value": "GOLDEN BAY"
+    },
+    {
+        "value": "GOLDFIELD HEIGHTS"
+    },
+    {
+        "value": "GOLFLANDS"
+    },
+    {
+        "value": "GONVILLE"
+    },
+    {
+        "value": "GOODWOOD HEIGHTS"
+    },
+    {
+        "value": "GORDONTON"
+    },
+    {
+        "value": "GORE"
+    },
+    {
+        "value": "GORE BAY"
+    },
+    {
+        "value": "GOVERNORS BAY"
+    },
+    {
+        "value": "GRACEFIELD"
+    },
+    {
+        "value": "GRAFTON"
+    },
+    {
+        "value": "GRANITY"
+    },
+    {
+        "value": "GRASMERE"
+    },
+    {
+        "value": "GREAT BARRIER ISLAND"
+    },
+    {
+        "value": "GREEN BAY"
+    },
+    {
+        "value": "GREEN ISLAND"
+    },
+    {
+        "value": "GREENDALE"
+    },
+    {
+        "value": "GREENHITHE"
+    },
+    {
+        "value": "GREENLANE"
+    },
+    {
+        "value": "GREENMEADOWS"
+    },
+    {
+        "value": "GREERTON"
+    },
+    {
+        "value": "GRENADA"
+    },
+    {
+        "value": "GRENADA NORTH"
+    },
+    {
+        "value": "GRENADA VILLAGE"
+    },
+    {
+        "value": "GRETA VALLEY"
+    },
+    {
+        "value": "GREY"
+    },
+    {
+        "value": "GREY LYNN"
+    },
+    {
+        "value": "GREYMOUTH"
+    },
+    {
+        "value": "GREYTOWN"
+    },
+    {
+        "value": "GROVETOWN"
+    },
+    {
+        "value": "GULF HARBOUR"
+    },
+    {
+        "value": "HAAST"
+    },
+    {
+        "value": "HAHEI"
+    },
+    {
+        "value": "HAIRINI"
+    },
+    {
+        "value": "HALCOMBE"
+    },
+    {
+        "value": "HALF MOON BAY"
+    },
+    {
+        "value": "HALFWAY BUSH"
+    },
+    {
+        "value": "HALSWELL"
+    },
+    {
+        "value": "HAMILTON"
+    },
+    {
+        "value": "HAMILTON CITY CENTRAL"
+    },
+    {
+        "value": "HAMILTON EAST"
+    },
+    {
+        "value": "HAMILTON LAKE"
+    },
+    {
+        "value": "HAMILTON NORTH"
+    },
+    {
+        "value": "HAMILTON WEST"
+    },
+    {
+        "value": "HAMPDEN"
+    },
+    {
+        "value": "HAMPTON DOWNS"
+    },
+    {
+        "value": "HAMURANA"
+    },
+    {
+        "value": "HANGAROA"
+    },
+    {
+        "value": "HANMER SPRINGS"
+    },
+    {
+        "value": "HANNAHS BAY"
+    },
+    {
+        "value": "HARBOUR VIEW"
+    },
+    {
+        "value": "HAREWOOD"
+    },
+    {
+        "value": "HARGEST"
+    },
+    {
+        "value": "HARIHARI"
+    },
+    {
+        "value": "HARINGTON POINT"
+    },
+    {
+        "value": "HARRISVILLE"
+    },
+    {
+        "value": "HARROWFIELD"
+    },
+    {
+        "value": "HARURU"
+    },
+    {
+        "value": "HARWOOD"
+    },
+    {
+        "value": "HASTINGS"
+    },
+    {
+        "value": "HASTINGS CENTRAL"
+    },
+    {
+        "value": "HATAITAI"
+    },
+    {
+        "value": "HATFIELDS BEACH"
+    },
+    {
+        "value": "HAUMOANA"
+    },
+    {
+        "value": "HAURAKI"
+    },
+    {
+        "value": "HAURAKI GULF ISLANDS"
+    },
+    {
+        "value": "HAVELOCK"
+    },
+    {
+        "value": "HAVELOCK NORTH"
+    },
+    {
+        "value": "HAWARDEN"
+    },
+    {
+        "value": "HAWERA"
+    },
+    {
+        "value": "HAWKE'S BAY"
+    },
+    {
+        "value": "HAWTHORNDALE"
+    },
+    {
+        "value": "HAYWARDS"
+    },
+    {
+        "value": "HEATHCOTE"
+    },
+    {
+        "value": "HEATHERLEA"
+    },
+    {
+        "value": "HECTOR"
+    },
+    {
+        "value": "HEI HEI"
+    },
+    {
+        "value": "HEIDELBERG"
+    },
+    {
+        "value": "HEKERUA BAY"
+    },
+    {
+        "value": "HELENA BAY"
+    },
+    {
+        "value": "HELENSBURGH"
+    },
+    {
+        "value": "HELENSVILLE"
+    },
+    {
+        "value": "HENDERSON"
+    },
+    {
+        "value": "HENDERSON BAY"
+    },
+    {
+        "value": "HENDERSON VALLEY"
+    },
+    {
+        "value": "HENLEY"
+    },
+    {
+        "value": "HERALD ISLAND"
+    },
+    {
+        "value": "HERBERT"
+    },
+    {
+        "value": "HEREKINO"
+    },
+    {
+        "value": "HERETAUNGA"
+    },
+    {
+        "value": "HERNE BAY"
+    },
+    {
+        "value": "HEXTON"
+    },
+    {
+        "value": "HEYWARD POINT"
+    },
+    {
+        "value": "HICKS BAY"
+    },
+    {
+        "value": "HIGHBURY"
+    },
+    {
+        "value": "HIGHCLIFF"
+    },
+    {
+        "value": "HIGHLAND PARK"
+    },
+    {
+        "value": "HIGHLANDS PARK"
+    },
+    {
+        "value": "HIHI"
+    },
+    {
+        "value": "HIKURANGI"
+    },
+    {
+        "value": "HIKUTAIA"
+    },
+    {
+        "value": "HILL PARK"
+    },
+    {
+        "value": "HILLCREST"
+    },
+    {
+        "value": "HILLMORTON"
+    },
+    {
+        "value": "HILLSBOROUGH"
+    },
+    {
+        "value": "HILLTOP"
+    },
+    {
+        "value": "HIMATANGI"
+    },
+    {
+        "value": "HINDON"
+    },
+    {
+        "value": "HINDS"
+    },
+    {
+        "value": "HIRA"
+    },
+    {
+        "value": "HIWINUI"
+    },
+    {
+        "value": "HOBBS BAY"
+    },
+    {
+        "value": "HOBSONVILLE"
+    },
+    {
+        "value": "HODDERVILLE"
+    },
+    {
+        "value": "HOKIANGA"
+    },
+    {
+        "value": "HOKIANGA HARBOUR"
+    },
+    {
+        "value": "HOKIO BEACH"
+    },
+    {
+        "value": "HOKITIKA"
+    },
+    {
+        "value": "HOKOWHITU"
+    },
+    {
+        "value": "HOLBORN"
+    },
+    {
+        "value": "HOLDENS BAY"
+    },
+    {
+        "value": "HOON HAY"
+    },
+    {
+        "value": "HOPE"
+    },
+    {
+        "value": "HORAHORA"
+    },
+    {
+        "value": "HOREKE"
+    },
+    {
+        "value": "HORNBY"
+    },
+    {
+        "value": "HOROHORO"
+    },
+    {
+        "value": "HOROKIWI"
+    },
+    {
+        "value": "HORORATA"
+    },
+    {
+        "value": "HOROTIU"
+    },
+    {
+        "value": "HOROWHENUA"
+    },
+    {
+        "value": "HORRELLVILLE"
+    },
+    {
+        "value": "HORSHAM DOWNS"
+    },
+    {
+        "value": "HOSPITAL HILL"
+    },
+    {
+        "value": "HOT WATER BEACH"
+    },
+    {
+        "value": "HOTEO"
+    },
+    {
+        "value": "HOUGHTON BAY"
+    },
+    {
+        "value": "HOUHORA"
+    },
+    {
+        "value": "HOWICK"
+    },
+    {
+        "value": "HUAPAI"
+    },
+    {
+        "value": "HUIA"
+    },
+    {
+        "value": "HUKERENUI"
+    },
+    {
+        "value": "HUNTERVILLE"
+    },
+    {
+        "value": "HUNTINGTON"
+    },
+    {
+        "value": "HUNTINGTON PARK"
+    },
+    {
+        "value": "HUNTLY"
+    },
+    {
+        "value": "HUNTSBURY"
+    },
+    {
+        "value": "HUNUA"
+    },
+    {
+        "value": "HURDON"
+    },
+    {
+        "value": "HURUNUI"
+    },
+    {
+        "value": "HURWORTH"
+    },
+    {
+        "value": "HYDE PARK"
+    },
+    {
+        "value": "IDA VALLEY"
+    },
+    {
+        "value": "IHAKARA"
+    },
+    {
+        "value": "IKAMATUA"
+    },
+    {
+        "value": "ILAM"
+    },
+    {
+        "value": "INANGAHUA"
+    },
+    {
+        "value": "INGLEWOOD"
+    },
+    {
+        "value": "INNER KAITI"
+    },
+    {
+        "value": "INVERCARGILL"
+    },
+    {
+        "value": "INVERGARRY"
+    },
+    {
+        "value": "IRWELL"
+    },
+    {
+        "value": "ISLA BANK"
+    },
+    {
+        "value": "ISLAND BAY"
+    },
+    {
+        "value": "ISLINGTON"
+    },
+    {
+        "value": "JACKS POINT"
+    },
+    {
+        "value": "JERVOISTOWN"
+    },
+    {
+        "value": "JOHNSONVILLE"
+    },
+    {
+        "value": "JUDEA"
+    },
+    {
+        "value": "KAEO"
+    },
+    {
+        "value": "KAHAROA"
+    },
+    {
+        "value": "KAHURANAKI"
+    },
+    {
+        "value": "KAI IWI"
+    },
+    {
+        "value": "KAIAPOI"
+    },
+    {
+        "value": "KAIAUA"
+    },
+    {
+        "value": "KAIKOHE"
+    },
+    {
+        "value": "KAIKORAI"
+    },
+    {
+        "value": "KAIKORAI VALLEY"
+    },
+    {
+        "value": "KAIKOURA"
+    },
+    {
+        "value": "KAIMARAMA"
+    },
+    {
+        "value": "KAIMAUMAU"
+    },
+    {
+        "value": "KAINGA"
+    },
+    {
+        "value": "KAINGAROA"
+    },
+    {
+        "value": "KAINUI"
+    },
+    {
+        "value": "KAIPARA"
+    },
+    {
+        "value": "KAIPARA FLATS"
+    },
+    {
+        "value": "KAIRANGA"
+    },
+    {
+        "value": "KAIRUA"
+    },
+    {
+        "value": "KAITAIA"
+    },
+    {
+        "value": "KAITANGATA"
+    },
+    {
+        "value": "KAITERITERI"
+    },
+    {
+        "value": "KAITI"
+    },
+    {
+        "value": "KAITOKE"
+    },
+    {
+        "value": "KAIWAKA"
+    },
+    {
+        "value": "KAIWHARAWHARA"
+    },
+    {
+        "value": "KAKA POINT"
+    },
+    {
+        "value": "KAKANUI"
+    },
+    {
+        "value": "KAMO"
+    },
+    {
+        "value": "KANIERE"
+    },
+    {
+        "value": "KAPITI COAST"
+    },
+    {
+        "value": "KAPONGA"
+    },
+    {
+        "value": "KARAKA"
+    },
+    {
+        "value": "KARAKA BAYS"
+    },
+    {
+        "value": "KARAMEA"
+    },
+    {
+        "value": "KARAMU"
+    },
+    {
+        "value": "KARANGAHAKE"
+    },
+    {
+        "value": "KARAPIRO"
+    },
+    {
+        "value": "KAREHANA BAY"
+    },
+    {
+        "value": "KAREKARE"
+    },
+    {
+        "value": "KARETU"
+    },
+    {
+        "value": "KARIKARI PENINSULA"
+    },
+    {
+        "value": "KARITANE"
+    },
+    {
+        "value": "KARORI"
+    },
+    {
+        "value": "KARORO"
+    },
+    {
+        "value": "KATIKATI"
+    },
+    {
+        "value": "KAUKAPAKAPA"
+    },
+    {
+        "value": "KAURI"
+    },
+    {
+        "value": "KAWAHA POINT"
+    },
+    {
+        "value": "KAWAKAWA"
+    },
+    {
+        "value": "KAWAKAWA BAY"
+    },
+    {
+        "value": "KAWAU ISLAND"
+    },
+    {
+        "value": "KAWERAU"
+    },
+    {
+        "value": "KAWHIA"
+    },
+    {
+        "value": "KEKERENGU"
+    },
+    {
+        "value": "KELBURN"
+    },
+    {
+        "value": "KELLYS BAY"
+    },
+    {
+        "value": "KELSON"
+    },
+    {
+        "value": "KELSTON"
+    },
+    {
+        "value": "KELVIN GROVE"
+    },
+    {
+        "value": "KELVIN PENINSULA"
+    },
+    {
+        "value": "KENEPURU SOUNDS"
+    },
+    {
+        "value": "KENMURE"
+    },
+    {
+        "value": "KENNEDY POINT"
+    },
+    {
+        "value": "KENNEDY'S BUSH"
+    },
+    {
+        "value": "KENNINGTON"
+    },
+    {
+        "value": "KENSINGTON"
+    },
+    {
+        "value": "KEREPEHI"
+    },
+    {
+        "value": "KERERU"
+    },
+    {
+        "value": "KERIKERI"
+    },
+    {
+        "value": "KEW"
+    },
+    {
+        "value": "KHANDALLAH"
+    },
+    {
+        "value": "KIHIKIHI"
+    },
+    {
+        "value": "KILBIRNIE"
+    },
+    {
+        "value": "KIMBOLTON"
+    },
+    {
+        "value": "KINGSEAT"
+    },
+    {
+        "value": "KINGSLAND"
+    },
+    {
+        "value": "KINGSLEY HEIGHTS"
+    },
+    {
+        "value": "KINGSTON"
+    },
+    {
+        "value": "KINGSWELL"
+    },
+    {
+        "value": "KINLOCH"
+    },
+    {
+        "value": "KINMONT PARK"
+    },
+    {
+        "value": "KIRWEE"
+    },
+    {
+        "value": "KOHATU"
+    },
+    {
+        "value": "KOHIMARAMA"
+    },
+    {
+        "value": "KOHUKOHU"
+    },
+    {
+        "value": "KOKATAHI"
+    },
+    {
+        "value": "KOKOPU"
+    },
+    {
+        "value": "KONINI"
+    },
+    {
+        "value": "KOPU"
+    },
+    {
+        "value": "KORERE"
+    },
+    {
+        "value": "KOROKORO"
+    },
+    {
+        "value": "KOROMATUA"
+    },
+    {
+        "value": "KOROMIKO"
+    },
+    {
+        "value": "KOTEMAORI"
+    },
+    {
+        "value": "KOUTU"
+    },
+    {
+        "value": "KOWAI BUSH"
+    },
+    {
+        "value": "KOWHAI PARK"
+    },
+    {
+        "value": "KOWHITIRANGI"
+    },
+    {
+        "value": "KUAOTUNU BEACH"
+    },
+    {
+        "value": "KUKU"
+    },
+    {
+        "value": "KUMARA"
+    },
+    {
+        "value": "KUMEU"
+    },
+    {
+        "value": "KURATAU"
+    },
+    {
+        "value": "KUROW"
+    },
+    {
+        "value": "KUTARERE"
+    },
+    {
+        "value": "LAINGHOLM"
+    },
+    {
+        "value": "LAKE BRUNNER"
+    },
+    {
+        "value": "LAKE COLERIDGE"
+    },
+    {
+        "value": "LAKE ELLESMERE"
+    },
+    {
+        "value": "LAKE HAWEA"
+    },
+    {
+        "value": "LAKE HAYES"
+    },
+    {
+        "value": "LAKE OHAU"
+    },
+    {
+        "value": "LAKE OHIA"
+    },
+    {
+        "value": "LAKE OKAREKA"
+    },
+    {
+        "value": "LAKE ROTOEHU"
+    },
+    {
+        "value": "LAKE ROTOMA"
+    },
+    {
+        "value": "LAKE TARAWERA"
+    },
+    {
+        "value": "LAKE TAUPO"
+    },
+    {
+        "value": "LAKE TEKAPO"
+    },
+    {
+        "value": "LAKE WAKATIPU"
+    },
+    {
+        "value": "LAMBTON"
+    },
+    {
+        "value": "LANGS BEACH"
+    },
+    {
+        "value": "LAUDER"
+    },
+    {
+        "value": "LAWRENCE"
+    },
+    {
+        "value": "LEAMINGTON"
+    },
+    {
+        "value": "LEESTON"
+    },
+    {
+        "value": "LEIGH"
+    },
+    {
+        "value": "LEITH VALLEY"
+    },
+    {
+        "value": "LEITHFIELD"
+    },
+    {
+        "value": "LEITHFIELD BEACH"
+    },
+    {
+        "value": "LEPPERTON"
+    },
+    {
+        "value": "LEVIN"
+    },
+    {
+        "value": "LEWIS PASS"
+    },
+    {
+        "value": "LIBERTON"
+    },
+    {
+        "value": "LICHFIELD"
+    },
+    {
+        "value": "LIMEHILLS"
+    },
+    {
+        "value": "LINCOLN"
+    },
+    {
+        "value": "LINDEN"
+    },
+    {
+        "value": "LINKWATER"
+    },
+    {
+        "value": "LINTON"
+    },
+    {
+        "value": "LINWOOD"
+    },
+    {
+        "value": "LITTLE AKALOA"
+    },
+    {
+        "value": "LITTLE HUIA"
+    },
+    {
+        "value": "LITTLE MANLY"
+    },
+    {
+        "value": "LITTLE ONEROA"
+    },
+    {
+        "value": "LITTLE RIVER"
+    },
+    {
+        "value": "LITTLE WANGANUI"
+    },
+    {
+        "value": "LITTLEBOURNE"
+    },
+    {
+        "value": "LIVINGSTONE"
+    },
+    {
+        "value": "LOBURN"
+    },
+    {
+        "value": "LOBURN NORTH"
+    },
+    {
+        "value": "LONG BAY"
+    },
+    {
+        "value": "LONG BEACH"
+    },
+    {
+        "value": "LONGBURN"
+    },
+    {
+        "value": "LONGLANDS"
+    },
+    {
+        "value": "LOOKOUT POINT"
+    },
+    {
+        "value": "LORNEVILLE"
+    },
+    {
+        "value": "LOWER HUTT"
+    },
+    {
+        "value": "LOWER KAIMAI"
+    },
+    {
+        "value": "LOWER MOUTERE"
+    },
+    {
+        "value": "LOWER SHOTOVER"
+    },
+    {
+        "value": "LOWRY BAY"
+    },
+    {
+        "value": "LUCAS HEIGHTS"
+    },
+    {
+        "value": "LUGGATE"
+    },
+    {
+        "value": "LUMSDEN"
+    },
+    {
+        "value": "LYALL BAY"
+    },
+    {
+        "value": "LYNFIELD"
+    },
+    {
+        "value": "LYNMORE"
+    },
+    {
+        "value": "LYNMOUTH"
+    },
+    {
+        "value": "LYTTELTON"
+    },
+    {
+        "value": "MABEL BUSH"
+    },
+    {
+        "value": "MACANDREW BAY"
+    },
+    {
+        "value": "MACKENZIE"
+    },
+    {
+        "value": "MAEROA"
+    },
+    {
+        "value": "MAHANA"
+    },
+    {
+        "value": "MAHANGA"
+    },
+    {
+        "value": "MAHAU SOUND"
+    },
+    {
+        "value": "MAHENO"
+    },
+    {
+        "value": "MAHIA"
+    },
+    {
+        "value": "MAHIA BEACH"
+    },
+    {
+        "value": "MAHIA PARK"
+    },
+    {
+        "value": "MAHINA BAY"
+    },
+    {
+        "value": "MAHORA"
+    },
+    {
+        "value": "MAHURANGI"
+    },
+    {
+        "value": "MAHURANGI EAST"
+    },
+    {
+        "value": "MAHURANGI WEST"
+    },
+    {
+        "value": "MAIA"
+    },
+    {
+        "value": "MAIRANGI BAY"
+    },
+    {
+        "value": "MAIREHAU"
+    },
+    {
+        "value": "MAIRTOWN"
+    },
+    {
+        "value": "MAITAI"
+    },
+    {
+        "value": "MAITLANDS"
+    },
+    {
+        "value": "MAKARAKA"
+    },
+    {
+        "value": "MAKARA-OHARIU"
+    },
+    {
+        "value": "MAKARAU"
+    },
+    {
+        "value": "MAKAREWA"
+    },
+    {
+        "value": "MAKARORA"
+    },
+    {
+        "value": "MAKAURI"
+    },
+    {
+        "value": "MAKETU"
+    },
+    {
+        "value": "MAKIKIHI"
+    },
+    {
+        "value": "MAKIRIKIRI"
+    },
+    {
+        "value": "MAMAKU"
+    },
+    {
+        "value": "MAMANUCA ISLANDS"
+    },
+    {
+        "value": "MANA"
+    },
+    {
+        "value": "MANAIA"
+    },
+    {
+        "value": "MANAKAU"
+    },
+    {
+        "value": "MANAPOURI"
+    },
+    {
+        "value": "MANAWATU"
+    },
+    {
+        "value": "MANAWATU / WANGANUI"
+    },
+    {
+        "value": "MANGAKAKAHI"
+    },
+    {
+        "value": "MANGAKINO"
+    },
+    {
+        "value": "MANGAMAHU"
+    },
+    {
+        "value": "MANGAMUKA"
+    },
+    {
+        "value": "MANGAPAI"
+    },
+    {
+        "value": "MANGAPAPA"
+    },
+    {
+        "value": "MANGAROA"
+    },
+    {
+        "value": "MANGATAHI"
+    },
+    {
+        "value": "MANGATANGI"
+    },
+    {
+        "value": "MANGATAWHIRI"
+    },
+    {
+        "value": "MANGATEPARU"
+    },
+    {
+        "value": "MANGATERETERE"
+    },
+    {
+        "value": "MANGATOETOE"
+    },
+    {
+        "value": "MANGAWEKA"
+    },
+    {
+        "value": "MANGAWHAI"
+    },
+    {
+        "value": "MANGAWHAI HEADS"
+    },
+    {
+        "value": "MANGAWHARE"
+    },
+    {
+        "value": "MANGERE"
+    },
+    {
+        "value": "MANGERE BRIDGE"
+    },
+    {
+        "value": "MANGERE EAST"
+    },
+    {
+        "value": "MANGONUI"
+    },
+    {
+        "value": "MANGOREI"
+    },
+    {
+        "value": "MANLY"
+    },
+    {
+        "value": "MANOR PARK"
+    },
+    {
+        "value": "MANUKAU"
+    },
+    {
+        "value": "MANUKAU CITY"
+    },
+    {
+        "value": "MANUKAU HEIGHTS"
+    },
+    {
+        "value": "MANUREWA"
+    },
+    {
+        "value": "MANUREWA EAST"
+    },
+    {
+        "value": "MANUTUKE"
+    },
+    {
+        "value": "MAORI HILL"
+    },
+    {
+        "value": "MAORIBANK"
+    },
+    {
+        "value": "MAPUA"
+    },
+    {
+        "value": "MARAEKAKAHO"
+    },
+    {
+        "value": "MARAENUI"
+    },
+    {
+        "value": "MARAETAI"
+    },
+    {
+        "value": "MARAHAU"
+    },
+    {
+        "value": "MARAMARUA"
+    },
+    {
+        "value": "MAREWA"
+    },
+    {
+        "value": "MARFELL"
+    },
+    {
+        "value": "MARLBOROUGH"
+    },
+    {
+        "value": "MARLBOROUGH SOUNDS"
+    },
+    {
+        "value": "MAROMAKU"
+    },
+    {
+        "value": "MARSDEN POINT"
+    },
+    {
+        "value": "MARSHLAND"
+    },
+    {
+        "value": "MARTINBOROUGH"
+    },
+    {
+        "value": "MARTON"
+    },
+    {
+        "value": "MARUA"
+    },
+    {
+        "value": "MARUMARU"
+    },
+    {
+        "value": "MARYBANK"
+    },
+    {
+        "value": "MARYHILL"
+    },
+    {
+        "value": "MASSEY"
+    },
+    {
+        "value": "MASSEY EAST"
+    },
+    {
+        "value": "MASSEY NORTH"
+    },
+    {
+        "value": "MASSEY WEST"
+    },
+    {
+        "value": "MASTERTON"
+    },
+    {
+        "value": "MATAKANA"
+    },
+    {
+        "value": "MATAKATIA BAY"
+    },
+    {
+        "value": "MATAKOHE"
+    },
+    {
+        "value": "MATAMATA"
+    },
+    {
+        "value": "MATAMATA-PIAKO"
+    },
+    {
+        "value": "MATANGI"
+    },
+    {
+        "value": "MATAPOURI"
+    },
+    {
+        "value": "MATARANGI"
+    },
+    {
+        "value": "MATATA"
+    },
+    {
+        "value": "MATATOKI"
+    },
+    {
+        "value": "MATAURA"
+    },
+    {
+        "value": "MATAURA ISLAND"
+    },
+    {
+        "value": "MATAWAI"
+    },
+    {
+        "value": "MATAWHERO"
+    },
+    {
+        "value": "MATIATIA BAY"
+    },
+    {
+        "value": "MATINGARAHI"
+    },
+    {
+        "value": "MATIPO HEIGHTS"
+    },
+    {
+        "value": "MATOKITOKI"
+    },
+    {
+        "value": "MATUA"
+    },
+    {
+        "value": "MAUKU"
+    },
+    {
+        "value": "MAUNGAKARAMEA"
+    },
+    {
+        "value": "MAUNGARAKI"
+    },
+    {
+        "value": "MAUNGATAPERE"
+    },
+    {
+        "value": "MAUNGATAPU"
+    },
+    {
+        "value": "MAUNGATUA"
+    },
+    {
+        "value": "MAUNGATUROTO"
+    },
+    {
+        "value": "MAUNU"
+    },
+    {
+        "value": "MAUPUIA"
+    },
+    {
+        "value": "MAXWELL"
+    },
+    {
+        "value": "MAYFAIR"
+    },
+    {
+        "value": "MAYFIELD"
+    },
+    {
+        "value": "MAYGROVE"
+    },
+    {
+        "value": "MAYMORN"
+    },
+    {
+        "value": "MCLAREN PARK"
+    },
+    {
+        "value": "MCLEOD BAY"
+    },
+    {
+        "value": "MEADOWBANK"
+    },
+    {
+        "value": "MEADOWLANDS"
+    },
+    {
+        "value": "MEADOWOOD"
+    },
+    {
+        "value": "MEEANEE"
+    },
+    {
+        "value": "MELLING"
+    },
+    {
+        "value": "MELLONS BAY"
+    },
+    {
+        "value": "MELROSE"
+    },
+    {
+        "value": "MELVILLE"
+    },
+    {
+        "value": "MERCER"
+    },
+    {
+        "value": "MEREMERE"
+    },
+    {
+        "value": "MERIVALE"
+    },
+    {
+        "value": "MERRILANDS"
+    },
+    {
+        "value": "METHVEN"
+    },
+    {
+        "value": "MIDDLEMARCH"
+    },
+    {
+        "value": "MIDDLETON"
+    },
+    {
+        "value": "MIDHURST"
+    },
+    {
+        "value": "MILFORD"
+    },
+    {
+        "value": "MILLERS FLAT"
+    },
+    {
+        "value": "MILLERTON"
+    },
+    {
+        "value": "MILLWATER"
+    },
+    {
+        "value": "MILSON"
+    },
+    {
+        "value": "MILTON"
+    },
+    {
+        "value": "MIRAMAR"
+    },
+    {
+        "value": "MIRANDA"
+    },
+    {
+        "value": "MISSION BAY"
+    },
+    {
+        "value": "MISSION HEIGHTS"
+    },
+    {
+        "value": "MISSION VIEW"
+    },
+    {
+        "value": "MITIMITI"
+    },
+    {
+        "value": "MOA POINT"
+    },
+    {
+        "value": "MOANA"
+    },
+    {
+        "value": "MOERA"
+    },
+    {
+        "value": "MOERAKI"
+    },
+    {
+        "value": "MOEREWA"
+    },
+    {
+        "value": "MOHAKA"
+    },
+    {
+        "value": "MOKAU"
+    },
+    {
+        "value": "MOKIHINUI"
+    },
+    {
+        "value": "MONACO"
+    },
+    {
+        "value": "MONCKS BAY"
+    },
+    {
+        "value": "MONTALTO"
+    },
+    {
+        "value": "MOONSHINE VALLEY"
+    },
+    {
+        "value": "MORERE"
+    },
+    {
+        "value": "MORNINGSIDE"
+    },
+    {
+        "value": "MORNINGTON"
+    },
+    {
+        "value": "MORRINSVILLE"
+    },
+    {
+        "value": "MOSGIEL"
+    },
+    {
+        "value": "MOSSBURN"
+    },
+    {
+        "value": "MOSSTON"
+    },
+    {
+        "value": "MOTEO"
+    },
+    {
+        "value": "MOTU"
+    },
+    {
+        "value": "MOTUEKA"
+    },
+    {
+        "value": "MOTUKARARA"
+    },
+    {
+        "value": "MOTUNAU"
+    },
+    {
+        "value": "MOTUOAPA"
+    },
+    {
+        "value": "MOTUPIKO"
+    },
+    {
+        "value": "MOTUROA"
+    },
+    {
+        "value": "MOTUTANGI"
+    },
+    {
+        "value": "MOUNT ALBERT"
+    },
+    {
+        "value": "MOUNT COOK"
+    },
+    {
+        "value": "MOUNT EDEN"
+    },
+    {
+        "value": "MOUNT MARUA"
+    },
+    {
+        "value": "MOUNT MAUNGANUI"
+    },
+    {
+        "value": "MOUNT MERA"
+    },
+    {
+        "value": "MOUNT PLEASANT"
+    },
+    {
+        "value": "MOUNT ROSKILL"
+    },
+    {
+        "value": "MOUNT VICTORIA"
+    },
+    {
+        "value": "MOUNT WELLINGTON"
+    },
+    {
+        "value": "MOUREA"
+    },
+    {
+        "value": "MT BIGGS"
+    },
+    {
+        "value": "MT CARGILL"
+    },
+    {
+        "value": "MT COOK"
+    },
+    {
+        "value": "MT SOMERS"
+    },
+    {
+        "value": "MUHUNOA EAST"
+    },
+    {
+        "value": "MURCHISON"
+    },
+    {
+        "value": "MURITAI"
+    },
+    {
+        "value": "MURIWAI"
+    },
+    {
+        "value": "MURIWAI BEACH"
+    },
+    {
+        "value": "MURIWAI VALLEY"
+    },
+    {
+        "value": "MURRAY AYNSLEY"
+    },
+    {
+        "value": "MURRAYS BAY"
+    },
+    {
+        "value": "MURUPARA"
+    },
+    {
+        "value": "MUSSELBURGH"
+    },
+    {
+        "value": "MYROSS BUSH"
+    },
+    {
+        "value": "NADI"
+    },
+    {
+        "value": "NAENAE"
+    },
+    {
+        "value": "NAPIER"
+    },
+    {
+        "value": "NAPIER SOUTH"
+    },
+    {
+        "value": "NARROW NECK"
+    },
+    {
+        "value": "NASEBY"
+    },
+    {
+        "value": "NATIONAL PARK"
+    },
+    {
+        "value": "NAWTON"
+    },
+    {
+        "value": "NAYLAND"
+    },
+    {
+        "value": "NELSON"
+    },
+    {
+        "value": "NELSON / TASMAN"
+    },
+    {
+        "value": "NELSON CREEK"
+    },
+    {
+        "value": "NELSON EAST"
+    },
+    {
+        "value": "NELSON SOUTH"
+    },
+    {
+        "value": "NETHERTON"
+    },
+    {
+        "value": "NEW BRIGHTON"
+    },
+    {
+        "value": "NEW LYNN"
+    },
+    {
+        "value": "NEW PLYMOUTH"
+    },
+    {
+        "value": "NEW WINDSOR"
+    },
+    {
+        "value": "NEW ZEALAND"
+    },
+    {
+        "value": "NEWBURY"
+    },
+    {
+        "value": "NEWFIELD"
+    },
+    {
+        "value": "NEWLANDS"
+    },
+    {
+        "value": "NEWMARKET"
+    },
+    {
+        "value": "NEWSTEAD"
+    },
+    {
+        "value": "NEWTON"
+    },
+    {
+        "value": "NEWTOWN"
+    },
+    {
+        "value": "NGAHERE"
+    },
+    {
+        "value": "NGAHINAPOURI"
+    },
+    {
+        "value": "NGAIO"
+    },
+    {
+        "value": "NGAKAWAU"
+    },
+    {
+        "value": "NGAKURU"
+    },
+    {
+        "value": "NGAPARA"
+    },
+    {
+        "value": "NGAPUNA"
+    },
+    {
+        "value": "NGARUAWAHIA"
+    },
+    {
+        "value": "NGATAKI"
+    },
+    {
+        "value": "NGATAPA"
+    },
+    {
+        "value": "NGATEA"
+    },
+    {
+        "value": "NGATIMOTI"
+    },
+    {
+        "value": "NGATIRA"
+    },
+    {
+        "value": "NGAURANGA"
+    },
+    {
+        "value": "NGAWHATU"
+    },
+    {
+        "value": "NGAWI"
+    },
+    {
+        "value": "NGONGOTAHA"
+    },
+    {
+        "value": "NGONGOTAHA VALLEY"
+    },
+    {
+        "value": "NGUNGURU"
+    },
+    {
+        "value": "NIGHTCAPS"
+    },
+    {
+        "value": "NORMANBY"
+    },
+    {
+        "value": "NORMANDALE"
+    },
+    {
+        "value": "NORTH BANK"
+    },
+    {
+        "value": "NORTH DUNEDIN"
+    },
+    {
+        "value": "NORTH EAST VALLEY"
+    },
+    {
+        "value": "NORTH HARBOUR"
+    },
+    {
+        "value": "NORTH LINWOOD"
+    },
+    {
+        "value": "NORTH NEW BRIGHTON"
+    },
+    {
+        "value": "NORTH SHORE CITY"
+    },
+    {
+        "value": "NORTH TAIERI"
+    },
+    {
+        "value": "NORTHCOTE"
+    },
+    {
+        "value": "NORTHCOTE POINT"
+    },
+    {
+        "value": "NORTHCROSS"
+    },
+    {
+        "value": "NORTHLAND"
+    },
+    {
+        "value": "NORTHPARK"
+    },
+    {
+        "value": "NORTHSHORE"
+    },
+    {
+        "value": "NORTHWOOD"
+    },
+    {
+        "value": "NUHAKA"
+    },
+    {
+        "value": "NUKUHAU"
+    },
+    {
+        "value": "OAKLANDS"
+    },
+    {
+        "value": "OAKLEIGH"
+    },
+    {
+        "value": "OAKURA"
+    },
+    {
+        "value": "OAKURA COAST"
+    },
+    {
+        "value": "OAMARU"
+    },
+    {
+        "value": "OARO"
+    },
+    {
+        "value": "OBAN"
+    },
+    {
+        "value": "OCEAN GROVE"
+    },
+    {
+        "value": "OCEAN VIEW"
+    },
+    {
+        "value": "OHAEAWAI"
+    },
+    {
+        "value": "OHAI"
+    },
+    {
+        "value": "OHAKEA"
+    },
+    {
+        "value": "OHAKUNE"
+    },
+    {
+        "value": "OHAPUKU"
+    },
+    {
+        "value": "OHARIU"
+    },
+    {
+        "value": "OHAU"
+    },
+    {
+        "value": "OHAUITI"
+    },
+    {
+        "value": "OHAUPO"
+    },
+    {
+        "value": "OHINEMUTU"
+    },
+    {
+        "value": "OHINEWAI"
+    },
+    {
+        "value": "OHOKA"
+    },
+    {
+        "value": "OHOPE"
+    },
+    {
+        "value": "OHURA"
+    },
+    {
+        "value": "OKAIAWA"
+    },
+    {
+        "value": "OKAIHAU"
+    },
+    {
+        "value": "OKARAMIO"
+    },
+    {
+        "value": "OKARITO"
+    },
+    {
+        "value": "OKATO"
+    },
+    {
+        "value": "OKERE FALLS"
+    },
+    {
+        "value": "OKITU"
+    },
+    {
+        "value": "OKIWI BAY"
+    },
+    {
+        "value": "OKOIA"
+    },
+    {
+        "value": "OKUKU"
+    },
+    {
+        "value": "OKURA"
+    },
+    {
+        "value": "OKURU"
+    },
+    {
+        "value": "OMAHA"
+    },
+    {
+        "value": "OMAHA FLATS"
+    },
+    {
+        "value": "OMAHU"
+    },
+    {
+        "value": "OMAKAU"
+    },
+    {
+        "value": "OMANA BEACH"
+    },
+    {
+        "value": "OMANAIA"
+    },
+    {
+        "value": "OMANAWA"
+    },
+    {
+        "value": "OMANU"
+    },
+    {
+        "value": "OMAPERE"
+    },
+    {
+        "value": "OMARAMA"
+    },
+    {
+        "value": "OMATA"
+    },
+    {
+        "value": "OMIHA"
+    },
+    {
+        "value": "OMIHI"
+    },
+    {
+        "value": "OMOKOROA"
+    },
+    {
+        "value": "OMORI"
+    },
+    {
+        "value": "ONAERO"
+    },
+    {
+        "value": "ONAMALUTU VALLEY"
+    },
+    {
+        "value": "ONE TREE HILL"
+    },
+    {
+        "value": "ONE TREE POINT"
+    },
+    {
+        "value": "ONEHUNGA"
+    },
+    {
+        "value": "ONEKAWA"
+    },
+    {
+        "value": "ONEMANA"
+    },
+    {
+        "value": "ONEPU"
+    },
+    {
+        "value": "ONERAHI"
+    },
+    {
+        "value": "ONEROA"
+    },
+    {
+        "value": "ONETANGI"
+    },
+    {
+        "value": "ONEWHERO"
+    },
+    {
+        "value": "ONGAONGA"
+    },
+    {
+        "value": "OPAHEKE"
+    },
+    {
+        "value": "OPARAU"
+    },
+    {
+        "value": "OPAWA"
+    },
+    {
+        "value": "OPHIR"
+    },
+    {
+        "value": "OPIKI"
+    },
+    {
+        "value": "OPITO"
+    },
+    {
+        "value": "OPOHO"
+    },
+    {
+        "value": "OPONONI"
+    },
+    {
+        "value": "OPOTIKI"
+    },
+    {
+        "value": "OPUA"
+    },
+    {
+        "value": "OPUNAKE"
+    },
+    {
+        "value": "ORAKEI"
+    },
+    {
+        "value": "ORANGA"
+    },
+    {
+        "value": "ORAPIU"
+    },
+    {
+        "value": "ORATIA"
+    },
+    {
+        "value": "OREPUKI"
+    },
+    {
+        "value": "ORERE"
+    },
+    {
+        "value": "ORERE POINT"
+    },
+    {
+        "value": "OREWA"
+    },
+    {
+        "value": "ORIENTAL BAY"
+    },
+    {
+        "value": "ORINI"
+    },
+    {
+        "value": "ORMOND"
+    },
+    {
+        "value": "OROPI"
+    },
+    {
+        "value": "ORUANUI"
+    },
+    {
+        "value": "ORUATUA"
+    },
+    {
+        "value": "OSBORNE"
+    },
+    {
+        "value": "OSTEND"
+    },
+    {
+        "value": "OTAGO"
+    },
+    {
+        "value": "OTAGO PENINSULA"
+    },
+    {
+        "value": "OTAHUHU"
+    },
+    {
+        "value": "OTAIHANGA"
+    },
+    {
+        "value": "OTAIKA"
+    },
+    {
+        "value": "OTAKI"
+    },
+    {
+        "value": "OTAKI BEACH"
+    },
+    {
+        "value": "OTAKIRI"
+    },
+    {
+        "value": "OTAKOU"
+    },
+    {
+        "value": "OTAMA"
+    },
+    {
+        "value": "OTAMATEA"
+    },
+    {
+        "value": "OTAMAURI"
+    },
+    {
+        "value": "OTANE"
+    },
+    {
+        "value": "OTANGAREI"
+    },
+    {
+        "value": "OTARA"
+    },
+    {
+        "value": "OTATARA"
+    },
+    {
+        "value": "OTAUA"
+    },
+    {
+        "value": "OTAUTAU"
+    },
+    {
+        "value": "OTEHA"
+    },
+    {
+        "value": "OTEMATATA"
+    },
+    {
+        "value": "OTOKIA"
+    },
+    {
+        "value": "OTOKO"
+    },
+    {
+        "value": "OTOROHANGA"
+    },
+    {
+        "value": "OTUMOETAI"
+    },
+    {
+        "value": "OTUREHUA"
+    },
+    {
+        "value": "OUTER KAITI"
+    },
+    {
+        "value": "OUTRAM"
+    },
+    {
+        "value": "OWAIRAKA"
+    },
+    {
+        "value": "OWAKA"
+    },
+    {
+        "value": "OWEN RIVER"
+    },
+    {
+        "value": "OWHANGO"
+    },
+    {
+        "value": "OWHATA"
+    },
+    {
+        "value": "OWHIRO BAY"
+    },
+    {
+        "value": "OXFORD"
+    },
+    {
+        "value": "PAEKAKARIKI"
+    },
+    {
+        "value": "PAENGAROA"
+    },
+    {
+        "value": "PAERATA"
+    },
+    {
+        "value": "PAEROA"
+    },
+    {
+        "value": "PAHI"
+    },
+    {
+        "value": "PAHIATUA"
+    },
+    {
+        "value": "PAHOIA"
+    },
+    {
+        "value": "PAHOU"
+    },
+    {
+        "value": "PAHUREHURE"
+    },
+    {
+        "value": "PAIHIA"
+    },
+    {
+        "value": "PAKARAKA"
+    },
+    {
+        "value": "PAKIPAKI"
+    },
+    {
+        "value": "PAKIRI"
+    },
+    {
+        "value": "PAKOWHAI"
+    },
+    {
+        "value": "PAKURANGA"
+    },
+    {
+        "value": "PAKURATAHI"
+    },
+    {
+        "value": "PALM BEACH"
+    },
+    {
+        "value": "PALM HEIGHTS"
+    },
+    {
+        "value": "PALMERSTON"
+    },
+    {
+        "value": "PALMERSTON NORTH"
+    },
+    {
+        "value": "PAMAPURIA"
+    },
+    {
+        "value": "PANGURU"
+    },
+    {
+        "value": "PANMURE"
+    },
+    {
+        "value": "PAPAIOEA"
+    },
+    {
+        "value": "PAPAKOWHAI"
+    },
+    {
+        "value": "PAPAKURA"
+    },
+    {
+        "value": "PAPAMOA"
+    },
+    {
+        "value": "PAPAMOA BEACH"
+    },
+    {
+        "value": "PAPANUI"
+    },
+    {
+        "value": "PAPARANGI"
+    },
+    {
+        "value": "PAPARIMU"
+    },
+    {
+        "value": "PAPAROA"
+    },
+    {
+        "value": "PAPATOETOE"
+    },
+    {
+        "value": "PARAHAKI"
+    },
+    {
+        "value": "PARAKAI"
+    },
+    {
+        "value": "PARANUI"
+    },
+    {
+        "value": "PARAPARAUMU"
+    },
+    {
+        "value": "PARAPARAUMU BEACH"
+    },
+    {
+        "value": "PARAU"
+    },
+    {
+        "value": "PAREMATA"
+    },
+    {
+        "value": "PAREMOREMO"
+    },
+    {
+        "value": "PAREORA"
+    },
+    {
+        "value": "PARIKINO"
+    },
+    {
+        "value": "PARK AVENUE"
+    },
+    {
+        "value": "PARKHURST"
+    },
+    {
+        "value": "PARKLANDS"
+    },
+    {
+        "value": "PARKVALE"
+    },
+    {
+        "value": "PARNELL"
+    },
+    {
+        "value": "PAROA"
+    },
+    {
+        "value": "PARUA BAY"
+    },
+    {
+        "value": "PATANGATA"
+    },
+    {
+        "value": "PATAUA"
+    },
+    {
+        "value": "PATAUA NORTH"
+    },
+    {
+        "value": "PATAUA SOUTH"
+    },
+    {
+        "value": "PATEA"
+    },
+    {
+        "value": "PATETONGA"
+    },
+    {
+        "value": "PATOKA"
+    },
+    {
+        "value": "PATONS ROCK"
+    },
+    {
+        "value": "PATUMAHOE"
+    },
+    {
+        "value": "PATUTAHI"
+    },
+    {
+        "value": "PAUANUI"
+    },
+    {
+        "value": "PAUATAHANUI"
+    },
+    {
+        "value": "PEGASUS"
+    },
+    {
+        "value": "PEGASUS BAY"
+    },
+    {
+        "value": "PEKA PEKA"
+    },
+    {
+        "value": "PELORUS SOUNDS"
+    },
+    {
+        "value": "PENROSE"
+    },
+    {
+        "value": "PERIA"
+    },
+    {
+        "value": "PETONE"
+    },
+    {
+        "value": "PHILLIPSTOWN"
+    },
+    {
+        "value": "PICTON"
+    },
+    {
+        "value": "PIGEON BAY"
+    },
+    {
+        "value": "PIHA"
+    },
+    {
+        "value": "PIKOWAI"
+    },
+    {
+        "value": "PINE HILL"
+    },
+    {
+        "value": "PINEHAVEN"
+    },
+    {
+        "value": "PINEHILL"
+    },
+    {
+        "value": "PINES BEACH"
+    },
+    {
+        "value": "PIOPIO"
+    },
+    {
+        "value": "PIPITEA"
+    },
+    {
+        "value": "PIRIMAI"
+    },
+    {
+        "value": "PIRONGIA"
+    },
+    {
+        "value": "PLEASANT HEIGHTS"
+    },
+    {
+        "value": "PLEASANT POINT"
+    },
+    {
+        "value": "PLIMMERTON"
+    },
+    {
+        "value": "POHANGINA"
+    },
+    {
+        "value": "POHARA"
+    },
+    {
+        "value": "POIKE"
+    },
+    {
+        "value": "POINT CHEVALIER"
+    },
+    {
+        "value": "POINT ENGLAND"
+    },
+    {
+        "value": "POINT VIEW PARK"
+    },
+    {
+        "value": "POINT WELLS"
+    },
+    {
+        "value": "POKENO"
+    },
+    {
+        "value": "POLLOK"
+    },
+    {
+        "value": "PONGAKAWA"
+    },
+    {
+        "value": "PONGAROA"
+    },
+    {
+        "value": "PONSONBY"
+    },
+    {
+        "value": "PORAITI"
+    },
+    {
+        "value": "PORANGAHAU"
+    },
+    {
+        "value": "PORIRUA"
+    },
+    {
+        "value": "PORIRUA EAST"
+    },
+    {
+        "value": "POROPORO"
+    },
+    {
+        "value": "POROTI"
+    },
+    {
+        "value": "PORT CHALMERS"
+    },
+    {
+        "value": "PORT CHARLES"
+    },
+    {
+        "value": "PORT HILLS"
+    },
+    {
+        "value": "PORT LEVY"
+    },
+    {
+        "value": "PORT OHOPE"
+    },
+    {
+        "value": "PORT VILA"
+    },
+    {
+        "value": "PORT WAIKATO"
+    },
+    {
+        "value": "PORT WHANGAREI"
+    },
+    {
+        "value": "PORTAGE"
+    },
+    {
+        "value": "PORTLAND"
+    },
+    {
+        "value": "PORTOBELLO"
+    },
+    {
+        "value": "POUAWA"
+    },
+    {
+        "value": "POUKAWA"
+    },
+    {
+        "value": "POUNAWEA"
+    },
+    {
+        "value": "POUTO"
+    },
+    {
+        "value": "PREBBLETON"
+    },
+    {
+        "value": "PUHINUI"
+    },
+    {
+        "value": "PUHOI"
+    },
+    {
+        "value": "PUKAWA"
+    },
+    {
+        "value": "PUKEATUA"
+    },
+    {
+        "value": "PUKEHANGI"
+    },
+    {
+        "value": "PUKEHINA"
+    },
+    {
+        "value": "PUKEKAWA"
+    },
+    {
+        "value": "PUKEKOHE"
+    },
+    {
+        "value": "PUKEKOHE EAST"
+    },
+    {
+        "value": "PUKEKURA"
+    },
+    {
+        "value": "PUKENUI"
+    },
+    {
+        "value": "PUKEPOTO"
+    },
+    {
+        "value": "PUKERUA BAY"
+    },
+    {
+        "value": "PUKETAHA"
+    },
+    {
+        "value": "PUKETAPU"
+    },
+    {
+        "value": "PUKETE"
+    },
+    {
+        "value": "PUKETITIRI"
+    },
+    {
+        "value": "PUKEURI"
+    },
+    {
+        "value": "PUNAKAIKI"
+    },
+    {
+        "value": "PUNGAREHU"
+    },
+    {
+        "value": "PUNI"
+    },
+    {
+        "value": "PURAKAUNUI"
+    },
+    {
+        "value": "PURAU"
+    },
+    {
+        "value": "PURIRI"
+    },
+    {
+        "value": "PUTARURU"
+    },
+    {
+        "value": "PUTIKI"
+    },
+    {
+        "value": "PUTORINO"
+    },
+    {
+        "value": "PYES PA"
+    },
+    {
+        "value": "QUEEN CHARLOTTE SOUNDS"
+    },
+    {
+        "value": "QUEENSBERRY"
+    },
+    {
+        "value": "QUEENSLAND"
+    },
+    {
+        "value": "QUEENSPARK"
+    },
+    {
+        "value": "QUEENSTOWN EAST"
+    },
+    {
+        "value": "QUEENSTOWN HILL"
+    },
+    {
+        "value": "QUEENSTOWN-LAKES"
+    },
+    {
+        "value": "QUEENWOOD"
+    },
+    {
+        "value": "RABBIT ISLAND"
+    },
+    {
+        "value": "RAETIHI"
+    },
+    {
+        "value": "RAGLAN"
+    },
+    {
+        "value": "RAI VALLEY"
+    },
+    {
+        "value": "RAINBOW POINT"
+    },
+    {
+        "value": "RAKAIA"
+    },
+    {
+        "value": "RAKINO ISLAND"
+    },
+    {
+        "value": "RAMARAMA"
+    },
+    {
+        "value": "RANDWICK PARK"
+    },
+    {
+        "value": "RANFURLY"
+    },
+    {
+        "value": "RANGATIRA PARK"
+    },
+    {
+        "value": "RANGIAHUA"
+    },
+    {
+        "value": "RANGIORA"
+    },
+    {
+        "value": "RANGIPUTA"
+    },
+    {
+        "value": "RANGIRIRI"
+    },
+    {
+        "value": "RANGITIKEI"
+    },
+    {
+        "value": "RANGIURU"
+    },
+    {
+        "value": "RANGIWAHIA"
+    },
+    {
+        "value": "RANUI"
+    },
+    {
+        "value": "RANUI HEIGHTS"
+    },
+    {
+        "value": "RAPAHOE"
+    },
+    {
+        "value": "RAPANUI"
+    },
+    {
+        "value": "RAPAURA"
+    },
+    {
+        "value": "RARANGI"
+    },
+    {
+        "value": "RAROA"
+    },
+    {
+        "value": "RAROTONGA"
+    },
+    {
+        "value": "RAUKAWA"
+    },
+    {
+        "value": "RAUMANGA"
+    },
+    {
+        "value": "RAUMATI BEACH"
+    },
+    {
+        "value": "RAUMATI SOUTH"
+    },
+    {
+        "value": "RAUREKA"
+    },
+    {
+        "value": "RAURIMU"
+    },
+    {
+        "value": "RAVENSBOURNE"
+    },
+    {
+        "value": "RAWENE"
+    },
+    {
+        "value": "RED BEACH"
+    },
+    {
+        "value": "RED HILL"
+    },
+    {
+        "value": "REDCLIFFS"
+    },
+    {
+        "value": "REDVALE"
+    },
+    {
+        "value": "REDWOOD"
+    },
+    {
+        "value": "REDWOOD VALLEY"
+    },
+    {
+        "value": "REDWOOD VILLAGE"
+    },
+    {
+        "value": "REDWOODTOWN"
+    },
+    {
+        "value": "REEFTON"
+    },
+    {
+        "value": "REGENT"
+    },
+    {
+        "value": "REMUERA"
+    },
+    {
+        "value": "RENWICK"
+    },
+    {
+        "value": "REPOROA"
+    },
+    {
+        "value": "RERE"
+    },
+    {
+        "value": "REREWHAKAAITU"
+    },
+    {
+        "value": "RICCARTON"
+    },
+    {
+        "value": "RICHMOND"
+    },
+    {
+        "value": "RICHMOND HEIGHTS"
+    },
+    {
+        "value": "RICHMOND HILL"
+    },
+    {
+        "value": "RIPONUI"
+    },
+    {
+        "value": "RISSINGTON"
+    },
+    {
+        "value": "RIVERDALE"
+    },
+    {
+        "value": "RIVERHEAD"
+    },
+    {
+        "value": "RIVERLANDS"
+    },
+    {
+        "value": "RIVERLEA"
+    },
+    {
+        "value": "RIVERSDALE"
+    },
+    {
+        "value": "RIVERSDALE BEACH"
+    },
+    {
+        "value": "RIVERSIDE"
+    },
+    {
+        "value": "RIVERSTONE TERRACES"
+    },
+    {
+        "value": "RIVERTON"
+    },
+    {
+        "value": "RIWAKA"
+    },
+    {
+        "value": "ROCKY BAY"
+    },
+    {
+        "value": "RODNEY"
+    },
+    {
+        "value": "ROLLESTON"
+    },
+    {
+        "value": "RONA BAY"
+    },
+    {
+        "value": "RONGOTAI"
+    },
+    {
+        "value": "RONGOTEA"
+    },
+    {
+        "value": "ROSEDALE"
+    },
+    {
+        "value": "ROSENEATH"
+    },
+    {
+        "value": "ROSLYN"
+    },
+    {
+        "value": "ROSLYN BUSH"
+    },
+    {
+        "value": "ROSS"
+    },
+    {
+        "value": "ROTHERHAM"
+    },
+    {
+        "value": "ROTHESAY BAY"
+    },
+    {
+        "value": "ROTOITI"
+    },
+    {
+        "value": "ROTOKAURI"
+    },
+    {
+        "value": "ROTONGARO"
+    },
+    {
+        "value": "ROTOORANGI"
+    },
+    {
+        "value": "ROTORUA"
+    },
+    {
+        "value": "ROTOTUNA"
+    },
+    {
+        "value": "ROXBURGH"
+    },
+    {
+        "value": "ROYAL HEIGHTS"
+    },
+    {
+        "value": "ROYAL OAK"
+    },
+    {
+        "value": "RUAKAKA"
+    },
+    {
+        "value": "RUAKITURI"
+    },
+    {
+        "value": "RUAKURA"
+    },
+    {
+        "value": "RUAPEHU"
+    },
+    {
+        "value": "RUATANGATA"
+    },
+    {
+        "value": "RUATOKI NORTH"
+    },
+    {
+        "value": "RUATORIA"
+    },
+    {
+        "value": "RUAWAI"
+    },
+    {
+        "value": "RUBY BAY"
+    },
+    {
+        "value": "RUKUHIA"
+    },
+    {
+        "value": "RUNANGA"
+    },
+    {
+        "value": "RUSSELL"
+    },
+    {
+        "value": "RUSSELLS FLAT"
+    },
+    {
+        "value": "RUSSLEY"
+    },
+    {
+        "value": "RUTHERGLEN"
+    },
+    {
+        "value": "RYAL BUSH"
+    },
+    {
+        "value": "SADDLE HILL"
+    },
+    {
+        "value": "SAILORS CUTTING"
+    },
+    {
+        "value": "SAINT ANDREWS"
+    },
+    {
+        "value": "SAINT ARNAUD"
+    },
+    {
+        "value": "SAINT CLAIR"
+    },
+    {
+        "value": "SAINT CLAIR PARK"
+    },
+    {
+        "value": "SAINT HELIERS"
+    },
+    {
+        "value": "SAINT JOHNS"
+    },
+    {
+        "value": "SAINT JOHNS HILL"
+    },
+    {
+        "value": "SAINT JOHNS PARK"
+    },
+    {
+        "value": "SAINT KILDA"
+    },
+    {
+        "value": "SAINT LEONARDS"
+    },
+    {
+        "value": "SAINT MARYS BAY"
+    },
+    {
+        "value": "SAMOA"
+    },
+    {
+        "value": "SANDRINGHAM"
+    },
+    {
+        "value": "SANDSPIT"
+    },
+    {
+        "value": "SANDY BAY"
+    },
+    {
+        "value": "SANSON"
+    },
+    {
+        "value": "SAWYERS BAY"
+    },
+    {
+        "value": "SCARBOROUGH"
+    },
+    {
+        "value": "SCARGILL"
+    },
+    {
+        "value": "SCHNAPPER ROCK"
+    },
+    {
+        "value": "SCROGGS HILL"
+    },
+    {
+        "value": "SEATOUN"
+    },
+    {
+        "value": "SEATOUN BAYS"
+    },
+    {
+        "value": "SEATOUN HEIGHTS"
+    },
+    {
+        "value": "SEAVIEW"
+    },
+    {
+        "value": "SEDDON"
+    },
+    {
+        "value": "SEDDONVILLE"
+    },
+    {
+        "value": "SEFTON"
+    },
+    {
+        "value": "SELWYN"
+    },
+    {
+        "value": "SELWYN HEIGHTS"
+    },
+    {
+        "value": "SHAMROCK PARK"
+    },
+    {
+        "value": "SHANNON"
+    },
+    {
+        "value": "SHEFFIELD"
+    },
+    {
+        "value": "SHELLY BEACH"
+    },
+    {
+        "value": "SHELLY PARK"
+    },
+    {
+        "value": "SHERENDEN"
+    },
+    {
+        "value": "SHERWOOD RISE"
+    },
+    {
+        "value": "SHIEL HILL"
+    },
+    {
+        "value": "SHIRLEY"
+    },
+    {
+        "value": "SILVERDALE"
+    },
+    {
+        "value": "SILVERSTREAM"
+    },
+    {
+        "value": "SNELLS BEACH"
+    },
+    {
+        "value": "SOCKBURN"
+    },
+    {
+        "value": "SOMERFIELD"
+    },
+    {
+        "value": "SOMERVILLE"
+    },
+    {
+        "value": "SOUTH BEACH"
+    },
+    {
+        "value": "SOUTH DUNEDIN"
+    },
+    {
+        "value": "SOUTH HEAD"
+    },
+    {
+        "value": "SOUTH NEW BRIGHTON"
+    },
+    {
+        "value": "SOUTH OAMARU"
+    },
+    {
+        "value": "SOUTH OTAGO"
+    },
+    {
+        "value": "SOUTH TARANAKI"
+    },
+    {
+        "value": "SOUTH WAIKATO"
+    },
+    {
+        "value": "SOUTH WAIRARAPA"
+    },
+    {
+        "value": "SOUTHBRIDGE"
+    },
+    {
+        "value": "SOUTHBROOK"
+    },
+    {
+        "value": "SOUTHERN ISLAND"
+    },
+    {
+        "value": "SOUTHLAND"
+    },
+    {
+        "value": "SOUTHSHORE"
+    },
+    {
+        "value": "SPENCERVILLE"
+    },
+    {
+        "value": "SPOTSWOOD"
+    },
+    {
+        "value": "SPREYDON"
+    },
+    {
+        "value": "SPRING CREEK"
+    },
+    {
+        "value": "SPRINGBANK"
+    },
+    {
+        "value": "SPRINGDALE"
+    },
+    {
+        "value": "SPRINGFIELD"
+    },
+    {
+        "value": "SPRINGLANDS"
+    },
+    {
+        "value": "SPRINGS FLAT"
+    },
+    {
+        "value": "SPRINGS JUNCTION"
+    },
+    {
+        "value": "SPRINGSTON"
+    },
+    {
+        "value": "SPRINGVALE"
+    },
+    {
+        "value": "ST ANDREWS"
+    },
+    {
+        "value": "ST BATHANS"
+    },
+    {
+        "value": "ST LUKES"
+    },
+    {
+        "value": "ST. ALBANS"
+    },
+    {
+        "value": "ST. ANDREWS HILL"
+    },
+    {
+        "value": "ST. MARTINS"
+    },
+    {
+        "value": "STANLEY BAY"
+    },
+    {
+        "value": "STANMORE BAY"
+    },
+    {
+        "value": "STEPNEYVILLE"
+    },
+    {
+        "value": "STEWART ISLAND"
+    },
+    {
+        "value": "STEWARTS GULLY"
+    },
+    {
+        "value": "STILLWATER"
+    },
+    {
+        "value": "STIRLING"
+    },
+    {
+        "value": "STOKE"
+    },
+    {
+        "value": "STOKES VALLEY"
+    },
+    {
+        "value": "STONEFIELDS"
+    },
+    {
+        "value": "STORTFORD LODGE"
+    },
+    {
+        "value": "STRANDON"
+    },
+    {
+        "value": "STRATFORD"
+    },
+    {
+        "value": "STRATFORD EAST"
+    },
+    {
+        "value": "STRATFORD WEST"
+    },
+    {
+        "value": "STRATHERN"
+    },
+    {
+        "value": "STRATHMORE PARK"
+    },
+    {
+        "value": "STREAMLANDS"
+    },
+    {
+        "value": "STROWAN"
+    },
+    {
+        "value": "STYX"
+    },
+    {
+        "value": "SUMMERHILL"
+    },
+    {
+        "value": "SUMNER"
+    },
+    {
+        "value": "SUNNYBROOK"
+    },
+    {
+        "value": "SUNNYHILLS"
+    },
+    {
+        "value": "SUNNYNOOK"
+    },
+    {
+        "value": "SUNNYVALE"
+    },
+    {
+        "value": "SUNSHINE BAY"
+    },
+    {
+        "value": "SURFDALE"
+    },
+    {
+        "value": "SUVA"
+    },
+    {
+        "value": "SWANNANOA"
+    },
+    {
+        "value": "SWANSON"
+    },
+    {
+        "value": "SYDENHAM"
+    },
+    {
+        "value": "TAHEKE"
+    },
+    {
+        "value": "TAHUNA"
+    },
+    {
+        "value": "TAHUNANUI"
+    },
+    {
+        "value": "TAHUNANUI HILLS"
+    },
+    {
+        "value": "TAI TAPU"
+    },
+    {
+        "value": "TAIERI MOUTH"
+    },
+    {
+        "value": "TAIHAPE"
+    },
+    {
+        "value": "TAINUI"
+    },
+    {
+        "value": "TAIPA"
+    },
+    {
+        "value": "TAIRUA"
+    },
+    {
+        "value": "TAITA"
+    },
+    {
+        "value": "TAKAHUE"
+    },
+    {
+        "value": "TAKAKA"
+    },
+    {
+        "value": "TAKANINI"
+    },
+    {
+        "value": "TAKAPAU"
+    },
+    {
+        "value": "TAKAPUNA"
+    },
+    {
+        "value": "TAKAPUWAHIA"
+    },
+    {
+        "value": "TAKARO"
+    },
+    {
+        "value": "TAMAHERE"
+    },
+    {
+        "value": "TAMAKI"
+    },
+    {
+        "value": "TAMARAU"
+    },
+    {
+        "value": "TAMATEA"
+    },
+    {
+        "value": "TAMATERAU"
+    },
+    {
+        "value": "TANEATUA"
+    },
+    {
+        "value": "TANGIMOANA"
+    },
+    {
+        "value": "TANGITERORIA"
+    },
+    {
+        "value": "TANGOIO"
+    },
+    {
+        "value": "TANGOWAHINE"
+    },
+    {
+        "value": "TAPANUI"
+    },
+    {
+        "value": "TAPAWERA"
+    },
+    {
+        "value": "TAPORA"
+    },
+    {
+        "value": "TAPU"
+    },
+    {
+        "value": "TARADALE"
+    },
+    {
+        "value": "TARANAKI"
+    },
+    {
+        "value": "TARANUI"
+    },
+    {
+        "value": "TARARUA"
+    },
+    {
+        "value": "TARIKI"
+    },
+    {
+        "value": "TARRAS"
+    },
+    {
+        "value": "TASMAN"
+    },
+    {
+        "value": "TAUHARA"
+    },
+    {
+        "value": "TAUHOA"
+    },
+    {
+        "value": "TAUMARUNUI"
+    },
+    {
+        "value": "TAUMATA"
+    },
+    {
+        "value": "TAUPAKI"
+    },
+    {
+        "value": "TAUPIRI"
+    },
+    {
+        "value": "TAUPO"
+    },
+    {
+        "value": "TAUPO BAY"
+    },
+    {
+        "value": "TAURANGA"
+    },
+    {
+        "value": "TAURANGA BAY"
+    },
+    {
+        "value": "TAURANGA SOUTH"
+    },
+    {
+        "value": "TAURIKO"
+    },
+    {
+        "value": "TAUWHARE"
+    },
+    {
+        "value": "TAWA"
+    },
+    {
+        "value": "TAWHARANUI PENINSULA"
+    },
+    {
+        "value": "TAWHERO"
+    },
+    {
+        "value": "TAYLORVILLE"
+    },
+    {
+        "value": "TE AKAU"
+    },
+    {
+        "value": "TE ANAU"
+    },
+    {
+        "value": "TE ARAI"
+    },
+    {
+        "value": "TE ARO"
+    },
+    {
+        "value": "TE AROHA"
+    },
+    {
+        "value": "TE ATATU PENINSULA"
+    },
+    {
+        "value": "TE ATATU SOUTH"
+    },
+    {
+        "value": "TE AWA"
+    },
+    {
+        "value": "TE AWAMUTU"
+    },
+    {
+        "value": "TE AWANGA"
+    },
+    {
+        "value": "TE HANA"
+    },
+    {
+        "value": "TE HAPARA"
+    },
+    {
+        "value": "TE HAUKE"
+    },
+    {
+        "value": "TE HOE"
+    },
+    {
+        "value": "TE HORO"
+    },
+    {
+        "value": "TE KAHA"
+    },
+    {
+        "value": "TE KARAKA"
+    },
+    {
+        "value": "TE KAUWHATA"
+    },
+    {
+        "value": "TE KOHANGA"
+    },
+    {
+        "value": "TE KOPURU"
+    },
+    {
+        "value": "TE KOWHAI"
+    },
+    {
+        "value": "TE KUITI"
+    },
+    {
+        "value": "TE MARUA"
+    },
+    {
+        "value": "TE MAUNGA"
+    },
+    {
+        "value": "TE NGAE"
+    },
+    {
+        "value": "TE PAHU"
+    },
+    {
+        "value": "TE PAPAPA"
+    },
+    {
+        "value": "TE POHUE"
+    },
+    {
+        "value": "TE POI"
+    },
+    {
+        "value": "TE PUKE"
+    },
+    {
+        "value": "TE PUNA"
+    },
+    {
+        "value": "TE PURU"
+    },
+    {
+        "value": "TE RANGIITA"
+    },
+    {
+        "value": "TE RAPA"
+    },
+    {
+        "value": "TE REINGA"
+    },
+    {
+        "value": "TE RORE"
+    },
+    {
+        "value": "TE TEKO"
+    },
+    {
+        "value": "TE UKU"
+    },
+    {
+        "value": "TE WHAU"
+    },
+    {
+        "value": "TE WHAU BAY"
+    },
+    {
+        "value": "TEDDINGTON"
+    },
+    {
+        "value": "TEMPLE VIEW"
+    },
+    {
+        "value": "TEMPLETON"
+    },
+    {
+        "value": "TEMUKA"
+    },
+    {
+        "value": "TENNYSON INLET"
+    },
+    {
+        "value": "TERRACE END"
+    },
+    {
+        "value": "THAMES"
+    },
+    {
+        "value": "THAMES-COROMANDEL"
+    },
+    {
+        "value": "THE BROOK"
+    },
+    {
+        "value": "THE COVE"
+    },
+    {
+        "value": "THE GARDENS"
+    },
+    {
+        "value": "THE GLEN"
+    },
+    {
+        "value": "THE GRANGE"
+    },
+    {
+        "value": "THE PLATEAU"
+    },
+    {
+        "value": "THE WOOD"
+    },
+    {
+        "value": "THORNBURY"
+    },
+    {
+        "value": "THORNDON"
+    },
+    {
+        "value": "THORNTON"
+    },
+    {
+        "value": "THORNTON ESTATE"
+    },
+    {
+        "value": "THREE KINGS"
+    },
+    {
+        "value": "THREE MILE BUSH"
+    },
+    {
+        "value": "TIHIOTONGA"
+    },
+    {
+        "value": "TIKIPUNGA"
+    },
+    {
+        "value": "TIKITERE"
+    },
+    {
+        "value": "TIKOKINO"
+    },
+    {
+        "value": "TIKORANGI"
+    },
+    {
+        "value": "TIMARU"
+    },
+    {
+        "value": "TIMBERLEA"
+    },
+    {
+        "value": "TINDALLS BEACH"
+    },
+    {
+        "value": "TINIROTO"
+    },
+    {
+        "value": "TINOPAI"
+    },
+    {
+        "value": "TINWALD"
+    },
+    {
+        "value": "TIRAU"
+    },
+    {
+        "value": "TIROHANGA"
+    },
+    {
+        "value": "TISBURY"
+    },
+    {
+        "value": "TITAHI BAY"
+    },
+    {
+        "value": "TITIRANGI"
+    },
+    {
+        "value": "TITOKI"
+    },
+    {
+        "value": "TODDS VALLEY"
+    },
+    {
+        "value": "TOETOE"
+    },
+    {
+        "value": "TOI TOI"
+    },
+    {
+        "value": "TOKANUI"
+    },
+    {
+        "value": "TOKAORA"
+    },
+    {
+        "value": "TOKERAU BEACH"
+    },
+    {
+        "value": "TOKO"
+    },
+    {
+        "value": "TOKOMARU"
+    },
+    {
+        "value": "TOKOMARU BAY"
+    },
+    {
+        "value": "TOKOROA"
+    },
+    {
+        "value": "TOLAGA BAY"
+    },
+    {
+        "value": "TOMARATA"
+    },
+    {
+        "value": "TOMOANA"
+    },
+    {
+        "value": "TONGARIRO"
+    },
+    {
+        "value": "TOPUNI"
+    },
+    {
+        "value": "TORBAY"
+    },
+    {
+        "value": "TOTARA"
+    },
+    {
+        "value": "TOTARA FLAT"
+    },
+    {
+        "value": "TOTARA HEIGHTS"
+    },
+    {
+        "value": "TOTARA NORTH"
+    },
+    {
+        "value": "TOTARA PARK"
+    },
+    {
+        "value": "TOTARA VALE"
+    },
+    {
+        "value": "TOWAI"
+    },
+    {
+        "value": "TOWN CENTRE"
+    },
+    {
+        "value": "TRENTHAM"
+    },
+    {
+        "value": "TUAHIWI"
+    },
+    {
+        "value": "TUAI"
+    },
+    {
+        "value": "TUAKAU"
+    },
+    {
+        "value": "TUAMARINA"
+    },
+    {
+        "value": "TUAPEKA MOUTH"
+    },
+    {
+        "value": "TUATAPERE"
+    },
+    {
+        "value": "TURAKINA"
+    },
+    {
+        "value": "TURANGI"
+    },
+    {
+        "value": "TURITEA"
+    },
+    {
+        "value": "TURUA"
+    },
+    {
+        "value": "TUTIRA"
+    },
+    {
+        "value": "TUTUKAKA"
+    },
+    {
+        "value": "TWIZEL"
+    },
+    {
+        "value": "TWYFORD"
+    },
+    {
+        "value": "UNSWORTH HEIGHTS"
+    },
+    {
+        "value": "UPOKONGARO"
+    },
+    {
+        "value": "UPPER HUTT"
+    },
+    {
+        "value": "UPPER MOUTERE"
+    },
+    {
+        "value": "UPPER RICCARTON"
+    },
+    {
+        "value": "URENUI"
+    },
+    {
+        "value": "UTUHINA"
+    },
+    {
+        "value": "VANUATU"
+    },
+    {
+        "value": "VAUXHALL"
+    },
+    {
+        "value": "VICTORIA VALLEY"
+    },
+    {
+        "value": "VIEW HILL"
+    },
+    {
+        "value": "VINETOWN"
+    },
+    {
+        "value": "VOGELTOWN"
+    },
+    {
+        "value": "WADE HEADS"
+    },
+    {
+        "value": "WADESTOWN"
+    },
+    {
+        "value": "WAERENGA"
+    },
+    {
+        "value": "WAERENGAOKURI"
+    },
+    {
+        "value": "WAHAROA"
+    },
+    {
+        "value": "WAI O TAIKI BAY"
+    },
+    {
+        "value": "WAIAKE"
+    },
+    {
+        "value": "WAIANIWA"
+    },
+    {
+        "value": "WAIAREKA"
+    },
+    {
+        "value": "WAIATARUA"
+    },
+    {
+        "value": "WAIAU"
+    },
+    {
+        "value": "WAIAU PA"
+    },
+    {
+        "value": "WAIHARARA"
+    },
+    {
+        "value": "WAIHAU BAY"
+    },
+    {
+        "value": "WAIHEKE ISLAND"
+    },
+    {
+        "value": "WAIHEMO"
+    },
+    {
+        "value": "WAIHI"
+    },
+    {
+        "value": "WAIHI BEACH"
+    },
+    {
+        "value": "WAIHI EAST"
+    },
+    {
+        "value": "WAIHOLA"
+    },
+    {
+        "value": "WAIHOPAI VALLEY"
+    },
+    {
+        "value": "WAIHOU"
+    },
+    {
+        "value": "WAIKAIA"
+    },
+    {
+        "value": "WAIKANAE"
+    },
+    {
+        "value": "WAIKANAE BEACH"
+    },
+    {
+        "value": "WAIKARAKA"
+    },
+    {
+        "value": "WAIKARI"
+    },
+    {
+        "value": "WAIKATO"
+    },
+    {
+        "value": "WAIKATO SURROUNDS"
+    },
+    {
+        "value": "WAIKAWA"
+    },
+    {
+        "value": "WAIKAWA BEACH"
+    },
+    {
+        "value": "WAIKAWA VALLEY"
+    },
+    {
+        "value": "WAIKIEKIE"
+    },
+    {
+        "value": "WAIKINO"
+    },
+    {
+        "value": "WAIKITE"
+    },
+    {
+        "value": "WAIKITE VALLEY"
+    },
+    {
+        "value": "WAIKIWI"
+    },
+    {
+        "value": "WAIKOPOU BAY"
+    },
+    {
+        "value": "WAIKOUAITI"
+    },
+    {
+        "value": "WAIKOUKOU VALLEY"
+    },
+    {
+        "value": "WAIKOWHAI"
+    },
+    {
+        "value": "WAIKUKU"
+    },
+    {
+        "value": "WAIKUKU BEACH"
+    },
+    {
+        "value": "WAIMA"
+    },
+    {
+        "value": "WAIMAIRI BEACH"
+    },
+    {
+        "value": "WAIMAKARIRI"
+    },
+    {
+        "value": "WAIMAMAKU"
+    },
+    {
+        "value": "WAIMANA"
+    },
+    {
+        "value": "WAIMANGAROA"
+    },
+    {
+        "value": "WAIMANU BAY"
+    },
+    {
+        "value": "WAIMARAMA"
+    },
+    {
+        "value": "WAIMATA"
+    },
+    {
+        "value": "WAIMATE"
+    },
+    {
+        "value": "WAIMATE NORTH"
+    },
+    {
+        "value": "WAIMAUKU"
+    },
+    {
+        "value": "WAINGAKE"
+    },
+    {
+        "value": "WAINONI"
+    },
+    {
+        "value": "WAINUI"
+    },
+    {
+        "value": "WAINUIOMATA"
+    },
+    {
+        "value": "WAIOTAHI"
+    },
+    {
+        "value": "WAIOTIRA"
+    },
+    {
+        "value": "WAIOURU"
+    },
+    {
+        "value": "WAIPA"
+    },
+    {
+        "value": "WAIPAHIHI"
+    },
+    {
+        "value": "WAIPAOA"
+    },
+    {
+        "value": "WAIPAPA"
+    },
+    {
+        "value": "WAIPAPAKAURI"
+    },
+    {
+        "value": "WAIPARA"
+    },
+    {
+        "value": "WAIPATU"
+    },
+    {
+        "value": "WAIPAWA"
+    },
+    {
+        "value": "WAIPORI"
+    },
+    {
+        "value": "WAIPOUA"
+    },
+    {
+        "value": "WAIPU"
+    },
+    {
+        "value": "WAIPU COVE"
+    },
+    {
+        "value": "WAIPUKURAU"
+    },
+    {
+        "value": "WAIRAKEI"
+    },
+    {
+        "value": "WAIRAU VALLEY"
+    },
+    {
+        "value": "WAIROA"
+    },
+    {
+        "value": "WAIRUNA"
+    },
+    {
+        "value": "WAITAHANUI"
+    },
+    {
+        "value": "WAITAKARURU"
+    },
+    {
+        "value": "WAITAKERE"
+    },
+    {
+        "value": "WAITAKERE CITY"
+    },
+    {
+        "value": "WAITAKI"
+    },
+    {
+        "value": "WAITANGIRUA"
+    },
+    {
+        "value": "WAITARA"
+    },
+    {
+        "value": "WAITARERE"
+    },
+    {
+        "value": "WAITATI"
+    },
+    {
+        "value": "WAITERIMU"
+    },
+    {
+        "value": "WAITETOKO"
+    },
+    {
+        "value": "WAITOA"
+    },
+    {
+        "value": "WAITOKI"
+    },
+    {
+        "value": "WAITOMO"
+    },
+    {
+        "value": "WAITOTARA"
+    },
+    {
+        "value": "WAITUNA"
+    },
+    {
+        "value": "WAITUNA WEST"
+    },
+    {
+        "value": "WAIUKU"
+    },
+    {
+        "value": "WAIWERA"
+    },
+    {
+        "value": "WAIWERA SOUTH"
+    },
+    {
+        "value": "WAIWHARE"
+    },
+    {
+        "value": "WAIWHETU"
+    },
+    {
+        "value": "WAKAPUAKA"
+    },
+    {
+        "value": "WAKARI"
+    },
+    {
+        "value": "WAKATU"
+    },
+    {
+        "value": "WAKEFIELD"
+    },
+    {
+        "value": "WALDRONVILLE"
+    },
+    {
+        "value": "WALLACETOWN"
+    },
+    {
+        "value": "WALLACEVILLE"
+    },
+    {
+        "value": "WALTHAM"
+    },
+    {
+        "value": "WALTON"
+    },
+    {
+        "value": "WANAKA"
+    },
+    {
+        "value": "WANGANUI"
+    },
+    {
+        "value": "WANGANUI EAST"
+    },
+    {
+        "value": "WANSTEAD"
+    },
+    {
+        "value": "WARD"
+    },
+    {
+        "value": "WAREA"
+    },
+    {
+        "value": "WARKWORTH"
+    },
+    {
+        "value": "WARRINGTON"
+    },
+    {
+        "value": "WASHDYKE"
+    },
+    {
+        "value": "WASHINGTON VALLEY"
+    },
+    {
+        "value": "WATERLOO"
+    },
+    {
+        "value": "WATERVIEW"
+    },
+    {
+        "value": "WATTLE DOWNS"
+    },
+    {
+        "value": "WAVERLEY"
+    },
+    {
+        "value": "WEDDERBURN"
+    },
+    {
+        "value": "WEEDONS"
+    },
+    {
+        "value": "WELBOURN"
+    },
+    {
+        "value": "WELCOME BAY"
+    },
+    {
+        "value": "WELLINGTON"
+    },
+    {
+        "value": "WELLINGTON CENTRAL"
+    },
+    {
+        "value": "WELLSFORD"
+    },
+    {
+        "value": "WESLEY"
+    },
+    {
+        "value": "WEST COAST"
+    },
+    {
+        "value": "WEST END"
+    },
+    {
+        "value": "WEST EYRETON"
+    },
+    {
+        "value": "WEST HARBOUR"
+    },
+    {
+        "value": "WEST MELTON"
+    },
+    {
+        "value": "WEST PLAINS"
+    },
+    {
+        "value": "WESTBROOK"
+    },
+    {
+        "value": "WESTERN BAY OF PLENTY"
+    },
+    {
+        "value": "WESTERN HEIGHTS"
+    },
+    {
+        "value": "WESTERN SPRINGS"
+    },
+    {
+        "value": "WESTGATE"
+    },
+    {
+        "value": "WESTLAKE"
+    },
+    {
+        "value": "WESTLAND"
+    },
+    {
+        "value": "WESTMERE"
+    },
+    {
+        "value": "WESTMORLAND"
+    },
+    {
+        "value": "WESTON"
+    },
+    {
+        "value": "WESTOWN"
+    },
+    {
+        "value": "WESTPORT"
+    },
+    {
+        "value": "WESTSHORE"
+    },
+    {
+        "value": "WESTWOOD"
+    },
+    {
+        "value": "WEYMOUTH"
+    },
+    {
+        "value": "WHAKAKI"
+    },
+    {
+        "value": "WHAKAMARAMA"
+    },
+    {
+        "value": "WHAKAMARU"
+    },
+    {
+        "value": "WHAKAPARA"
+    },
+    {
+        "value": "WHAKAPIRAU"
+    },
+    {
+        "value": "WHAKAREWAREWA"
+    },
+    {
+        "value": "WHAKATANE"
+    },
+    {
+        "value": "WHAKATU"
+    },
+    {
+        "value": "WHALERS GATE"
+    },
+    {
+        "value": "WHANANAKI"
+    },
+    {
+        "value": "WHANGAEHU"
+    },
+    {
+        "value": "WHANGAMATA"
+    },
+    {
+        "value": "WHANGAMOA"
+    },
+    {
+        "value": "WHANGAPARAOA"
+    },
+    {
+        "value": "WHANGAPE HARBOUR"
+    },
+    {
+        "value": "WHANGAPOUA"
+    },
+    {
+        "value": "WHANGARA"
+    },
+    {
+        "value": "WHANGAREI"
+    },
+    {
+        "value": "WHANGAREI HEADS"
+    },
+    {
+        "value": "WHANGARIPO"
+    },
+    {
+        "value": "WHANGAROA"
+    },
+    {
+        "value": "WHANGARURU"
+    },
+    {
+        "value": "WHAREKAWA"
+    },
+    {
+        "value": "WHAREKOPAE"
+    },
+    {
+        "value": "WHAREORA"
+    },
+    {
+        "value": "WHAREROA"
+    },
+    {
+        "value": "WHAREWAKA"
+    },
+    {
+        "value": "WHATAROA"
+    },
+    {
+        "value": "WHATATUTU"
+    },
+    {
+        "value": "WHATAUPOKO"
+    },
+    {
+        "value": "WHATAWHATA"
+    },
+    {
+        "value": "WHATIPU"
+    },
+    {
+        "value": "WHATITIRI"
+    },
+    {
+        "value": "WHATUWHIWHI"
+    },
+    {
+        "value": "WHAU VALLEY"
+    },
+    {
+        "value": "WHEKI VALLEY"
+    },
+    {
+        "value": "WHENUAKITE"
+    },
+    {
+        "value": "WHENUAPAI"
+    },
+    {
+        "value": "WHIRINAKI"
+    },
+    {
+        "value": "WHIRITOA"
+    },
+    {
+        "value": "WHITBY"
+    },
+    {
+        "value": "WHITE ROCK"
+    },
+    {
+        "value": "WHITEMANS VALLEY"
+    },
+    {
+        "value": "WHITFORD"
+    },
+    {
+        "value": "WHITIANGA"
+    },
+    {
+        "value": "WHITIKAHU"
+    },
+    {
+        "value": "WHITIORA"
+    },
+    {
+        "value": "WIGRAM"
+    },
+    {
+        "value": "WIGRAM PARK"
+    },
+    {
+        "value": "WILTON"
+    },
+    {
+        "value": "WILTSDOWN"
+    },
+    {
+        "value": "WINCHESTER"
+    },
+    {
+        "value": "WINDSOR"
+    },
+    {
+        "value": "WINDSOR PARK"
+    },
+    {
+        "value": "WINDWHISTLE"
+    },
+    {
+        "value": "WINGATUI"
+    },
+    {
+        "value": "WINTON"
+    },
+    {
+        "value": "WIRI"
+    },
+    {
+        "value": "WITHERLEA"
+    },
+    {
+        "value": "WOBURN"
+    },
+    {
+        "value": "WOOD BAY"
+    },
+    {
+        "value": "WOODBOURNE"
+    },
+    {
+        "value": "WOODCOCKS"
+    },
+    {
+        "value": "WOODEND"
+    },
+    {
+        "value": "WOODHAUGH"
+    },
+    {
+        "value": "WOODHILL"
+    },
+    {
+        "value": "WOODLANDS"
+    },
+    {
+        "value": "WOODLANDS PARK"
+    },
+    {
+        "value": "WOODRIDGE"
+    },
+    {
+        "value": "WOODSIDE BAY"
+    },
+    {
+        "value": "WOODVILLE"
+    },
+    {
+        "value": "WOOLSTON"
+    },
+    {
+        "value": "WYNDHAM"
+    },
+    {
+        "value": "YALDHURST"
+    },
+    {
+        "value": "YASAWA ISLAND"
+    },
+    {
+        "value": "YORK BAY"
+    }
+]
