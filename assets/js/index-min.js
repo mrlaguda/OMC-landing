@@ -44,10 +44,10 @@ function buildJsonFormData(form) {
     return jsonFormData;
 };
 
-const enquriyForm = document.querySelector("#form-form");
+const enquiryForm = document.querySelector("#form-form");
 
-if (enquriyForm) {
-    enquriyForm.addEventListener("submit", function(e) {
+if (enquiryForm) {
+    enquiryForm.addEventListener("submit", function(e) {
         submitForm(e, this);
         setTimeout(function() {
             submitButton.style.visibility = "hidden";
@@ -69,6 +69,9 @@ function submitForm(e, form) {
         crossDomain: true,
         data: jsonFormData,
         dataType: "json",
+        success: setTimeout(function() {
+            window.location.href = "success"
+        }, 2250),
     });
 };
 

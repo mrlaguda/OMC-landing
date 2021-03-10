@@ -143,18 +143,14 @@
                                 Apartments with a point of view coming soon to Onehunga Mall
                             </h1>
                             <div class="subtext">
-                                <p>
-                                    1 bedroom homes from $XXXK.
-                                </p>
-                                <p>
-                                    2 bedroom homes from $XXXK.
-                                </p>
+                                <h2>1 and 2 bedroom homes 
+                                <br />from $550k to $1.25m</h2>
                             </div>
                         </div>
                     </div>
                 </div>
 
-                <div id="register" class="relative hash-offset" style="top: -149px;"></div>
+                <div id="register" class="relative hash-offset" style="top: -149px; display: none;"></div>
 
                 <div class="register">
                     <div class="register-header">
@@ -226,7 +222,7 @@
                             <div class="form-control select">
                                 <label for="hearaboutus">How did you hear about us?</label>
                                 <select aria-label="Hear About Us" name="HearAboutUs" required>
-                                    <option aria-label="Colliers" value="Colliers International - The OMC">Colliers</option>
+                                    <option aria-label="Colliers" value="Colliers - The OMC">Colliers</option>
                                     <option aria-label="Facebook" value="Facebook - The OMC">Facebook</option>
                                     <option aria-label="Google" value="Google - The OMC">Google</option>
                                     <option aria-label="Instagram" value="Instagram - The OMC">Instagram</option>
@@ -239,6 +235,8 @@
                                     <option aria-label="Signage" value="Signage - The OMC">Signage</option>
                                     <option aria-label="Trademe.co.nz" value="Trademe.co.nz - The OMC">Trademe.co.nz</option>
                                     <option aria-label="WeChat" value="WeChat - The OMC">WeChat</option>
+                                    <option aria-label="Property Press" value="Property Press - The OMC">Property Press</option>
+                                    <option aria-label="Stuff.co.nz" value="Stuff.co.nz – The OMC">Stuff.co.nz</option>
                                 </select>
                             </div>
                             <div class="form-control select">
@@ -254,7 +252,7 @@
                             </div>
                             <div class="form-control">
                                 <input id="submit-btn" type="submit" name="submit" value="Submit" />
-                                <p id="submit-response">Thank you for registering your interest. You will be the first to receive the latest updates on The OMC. Our sales consultant will be in contact with you about your enquiry.</p>
+                                <p id="submit-response">Your enquiry has been submitted.</p>
                             </div>
                         </form>
                         <div class="form-control form-button">
