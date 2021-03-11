@@ -135,7 +135,7 @@
                                 Thank you for submitting your enquiry.
                             </h1>
                             <div class="subtext">
-                                <p>Our sales consultant will contact you.</p>
+                                <p>A sales consultant will be in touch. You will receive the latest updates on The OMC.</p>
                                 <br><br>
 
                             </div>
