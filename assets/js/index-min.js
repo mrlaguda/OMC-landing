@@ -109,83 +109,31 @@ giveSelectionBed(maxBed.value);
 
 /* Pull Suburbs */
 
-const searchSub = document.getElementById("form-search_suburb");
-const listSub = document.getElementById("form-list_suburb");
+let subDropdown = $('#form-search_suburb');
 
+subDropdown.empty();
 
-const searchSuburbs = async searchText => {
-    const res = await fetch('assets/data/suburb.json');
-    const suburbs = await res.json();
+const subUrl = 'assets/data/suburb.json';
 
-    let matches = suburbs.filter(suburb => {
-        const regex = new RegExp(`^${searchText}`, 'gi');
-        return suburb.value.match(regex) || suburb.value.match(regex);
+$.getJSON(subUrl, function(data) {
+    $.each(data, function(key, entry) {
+        subDropdown.append($('<option></option>').attr('value', entry.value).text(entry.value));
     });
-
-    if (searchText.length === 0) {
-        matches = [];
-        listSub.innerHTML = '';
-    }
-    outputHtmlSub(matches);
-};
-
-const outputHtmlSub = matches => {
-    if (matches.length > 0) {
-        const html = matches.map(match => `
-            <button type="button" class="form-control form-search_btn" value="${match.value}" onclick="autoCompleteSub(this.value)">
-                <p>${match.value}</p>
-            </button>
-        `).join('');
-        listSub.innerHTML = html;
-    }
-}
-
-searchSub.addEventListener('input', () => searchSuburbs(searchSub.value));
-
-function autoCompleteSub(curVal) {
-    searchSub.value = curVal;
-    matches = [];
-    listSub.innerHTML = '';
-}
+    $('#form-search_suburb option[value=Onehunga]').prop("selected", "selected");
+});
 
 
 /* Pull Cities */
 
-const searchCit = document.getElementById("form-search_city");
-const listCit = document.getElementById("form-list_city");
+let cityDropdown = $('#form-search_city');
 
+cityDropdown.empty();
 
-const searchCities = async searchText => {
-    const res = await fetch('assets/data/city.json');
-    const suburbs = await res.json();
+const cityUrl = 'assets/data/city.json';
 
-    let matches = suburbs.filter(suburb => {
-        const regex = new RegExp(`^${searchText}`, 'gi');
-        return suburb.value.match(regex) || suburb.value.match(regex);
+$.getJSON(cityUrl, function(data) {
+    $.each(data, function(key, entry) {
+        cityDropdown.append($('<option></option>').attr('value', entry.value).text(entry.value));
     });
-
-    if (searchText.length === 0) {
-        matches = [];
-        listCit.innerHTML = '';
-    }
-    outputHtmlCit(matches);
-};
-
-const outputHtmlCit = matches => {
-    if (matches.length > 0) {
-        const html = matches.map(match => `
-            <button type="button" class="form-control form-search_btn" value="${match.value}" onclick="autoCompleteCit(this.value)">
-                <p>${match.value}</p>
-            </button>
-        `).join('');
-        listCit.innerHTML = html;
-    }
-}
-
-searchCit.addEventListener('input', () => searchCities(searchCit.value));
-
-function autoCompleteCit(curVal) {
-    searchCit.value = curVal;
-    matches = [];
-    listCit.innerHTML = '';
-}
+    $('#form-search_city option[value=Auckland]').prop("selected", "selected");
+});

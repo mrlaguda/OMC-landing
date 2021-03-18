@@ -144,7 +144,8 @@
                             </h1>
                             <div class="subtext">
                                 <h2>1 and 2 bedroom homes 
-                                <br />from $550k to $1.25m</h2>
+                                <br />from $550k to $1.25m
+                                <br /></h2>
                             </div>
                         </div>
                     </div>
@@ -155,7 +156,7 @@
                 <div class="register">
                     <div class="register-header">
                         <h2>
-                            Register now to be the first to know
+                            Register here
                         </h2>
                     </div>
 
@@ -183,13 +184,13 @@
                             </div>
                             <div class="form-control">
                                 <label for="Suburb">Suburb</label>
-                                <input id="form-search_suburb" aria-label="Suburb" name="Suburb" type="text" placeholder="Onehunga" maxlength="100" required />
-                                <div id="form-list_suburb" class="form-list"></div>
+                                <select id="form-search_suburb" aria-label="Suburb" name="Suburb" required>
+                                </select>
                             </div>
                             <div class="form-control">
                                 <label for="City">City</label>
-                                <input id="form-search_city" aria-label="City" name="City" type="text" placeholder="Auckland" maxlength="100" required />
-                                <div id="form-list_city" class="form-list"></div>
+                                <select id="form-search_city" aria-label="City" name="City" required>
+                                </select>
                             </div>
                             <div class="form-control select">
                                 <label for="BedroomsMax">Number of bedrooms</label>
@@ -275,7 +276,7 @@
 
             <section class="desktop-only">
                 <div class="hero-image">
-                    <img src="assets/images/hero.jpg" alt="Hero image" />
+                    <img src="assets/images/hero-desk.jpg" alt="Hero image" />
                 </div>
             </section>
 
