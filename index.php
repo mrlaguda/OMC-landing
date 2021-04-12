@@ -249,7 +249,7 @@
                                 </select>
                             </div>
                             <div class="form-control">
-                                <p class="p-small">The following information has been collected primarily for vendor’s security and may be used for Colliers and LCO Municipal Ltd purposes only. Colliers respects your privacy and complies with the Privacy Act. The provider of this information consents to be contacted by Colliers in relation to this property and residential projects. Such consent is provided to Colliers until withdrawn by the provider of the information. You at any time have access to and the opportunity to correct or complete information. By registering, you consent to us using the information for the purpose(s) specified.</p>
+                                <p class="p-small">Every precaution has been taken to establish the accuracy of the materials herein at the time of going live, however no responsibility will be taken for any errors or omissions. The information set out herein, including any specification, illustration, perspectives and plans, is indicative only, subject to change without notice and does not form part of any sales agreement of the Unit. Prospective purchasers acknowledge that they have had a reasonable opportunity to seek legal, technical and other advice or information and that they have either obtained that advice or information or have decided not to do so of their own accord. The Specification herein is for guideline purposes only and does not constitute an offer or contract.</p>
                             </div>
                             <div class="form-control">
                                 <input id="submit-btn" type="submit" name="submit" value="Submit" />
@@ -266,9 +266,9 @@
             <section id="popup">
                 <div class="popup__text">
                     <button id="popup-btn_close">Close</button>
-                    <h2><strong>PRIVACY POLICY</strong></h2>
+                    <h2><strong>Privacy Policy</strong></h2>
                     <br /><br />
-                    <p>Every precaution has been taken to establish the accuracy of the materials herein at the time of going live, however no responsibility will be taken for any errors or omissions. The information set out herein, including any specification, illustration, perspectives and plans, is indicative only, subject to change without notice and does not form part of any sales agreement of the Unit. Prospective purchasers acknowledge that they have had a reasonable opportunity to seek legal, technical and other advice or information and that they have either obtained that advice or information or have decided not to do so of their own accord. The Specification herein is for guideline purposes only and does not constitute an offer or contract.</p>
+                    <p>The following information has been collected primarily for vendor’s security and may be used for Colliers and LCO Municipal Ltd purposes only. Colliers respects your privacy and complies with the Privacy Act. The provider of this information consents to be contacted by Colliers in relation to this property and residential projects. Such consent is provided to Colliers until withdrawn by the provider of the information. You at any time have access to and the opportunity to correct or complete information. By registering, you consent to us using the information for the purpose(s) specified.</p>
                     <br /><br />
                     <p><a href="https://www.colliers.co.nz/en-nz/privacy-policy" target="_blank" rel="noreferrer noopener" aria-label="Privacy Policy">Read our Privacy Policy.</a></p>
                 </div>
